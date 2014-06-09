@@ -1,0 +1,29 @@
+
+<table class="liste">
+  <% _.each( notes, function( note, index ) { %>
+		<tr>
+			<td>
+				<div class="div-table">
+					<div class="div-row">
+						<div class="div-cell" style="width: 90%">
+							<%= note.user.name %> @ <%= note.place %>,
+							<%= note.created_at.substring(0,10) %>
+						</div>
+						<div class="div-cell" style="width: 10%; border-left: 1px solid black;">
+							&nbsp;
+						</div>
+					</div>
+					<div class="div-row">
+						<div class="div-cell" style="width: 90%">
+							<%= note.beer.title %>
+						</div>
+						<div class="div-cell" style="width: 10%; border-left: 1px solid black;">
+							#<%= note.rating %>
+						</div>
+					</div>
+				</div>
+			</td>
+		</tr>
+ <%  }); %>
+
+</table>

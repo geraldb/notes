@@ -1,0 +1,18 @@
+
+<table class="liste">
+  <colgroup>
+    <col width="90%">
+    <col width="10%">
+  </colgroup>
+
+  <% _.each( notes, function( note, index ) { %>
+     <tr>
+       <td>
+         <%= note.beer.title %>
+       </td>
+       <td>
+         #<%= note.rating %>
+       </td>
+     </tr>
+  <% }); %>
+</table>

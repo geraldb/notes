@@ -1,0 +1,250 @@
+---
+layout: beers
+title: Beers
+id: mobile
+---
+
+
+<script>
+
+	
+	
+	$(document).ready(function() {
+	
+		// var windowsize = $(window).width();
+		// alert(windowsize);
+
+		$(".link_to_choosebeer").click(function(){
+			window.location.href = "#choosebeer";
+		});
+		
+		$('ul#beers a').click(function(){
+			var beerid = $(this).attr('id');
+			$('input#beer').attr('value', beerid);
+			
+			var beertitle = $(this).text();
+			$('input#beertitle').attr('value', beertitle);
+			
+			window.location.href = "#home";
+		});
+		
+		$('#choosebeer').live('pageshow', function(){
+			$('#choosebeer input[data-type=search]').focus();
+		});
+
+		$('#home').live('pageshow', function(){
+			$.mobile.silentScroll($("#new-rating").offset().top);
+		});
+		
+		$('#positionsbestimmung').on('pageshow', function(){
+			alert("aaa");
+			navigator.geolocation.getCurrentPosition(positionsAusgabe);
+			alert("bbb");
+		});
+		
+	});	
+	
+</script>
+
+		<div id="login" data-role="page" data-title="Pints - Login">
+			<div data-role="header" data-theme="none">
+				<header>
+					{% include header.html %}
+					<h1>Pints - Login</h1>
+				</header>
+			</div><!-- /header -->
+			<div data-role="content" data-theme="c">
+				<form>
+					<div data-role="fieldcontain">
+						<label for="user">Username:</label>
+						<input name="user" id="user" placeholder="Your Username..." value="" type="text">
+					</div>
+					<button type="submit" id="submit-1">Send</button>
+				</form>
+			</div>
+			<div data-role="footer" data-theme="none">
+				<footer class="footer1">
+				</footer>
+			</div><!-- /footer -->
+		</div><!-- /page -->
+
+
+
+		<div id="home" data-role="page" data-title="Pints - Home">
+			<div data-role="header" data-theme="none">
+				<header>
+					{% include header.html %}
+					<h1>Pints - Home</h1>
+				</header>
+			</div><!-- /header -->
+			<div data-role="content" data-theme="c">
+				<h2 class="subtitle"><a href="#hots">Hot</a></h2>
+				<div id='hot3'></div>
+				
+				<div class="gap"></div>
+				
+				<h2 class="subtitle"><a href="#tops">Tops</a></h2>
+        <div id='top3'></div>
+				
+				<div class="gap"></div>
+				
+				<h2 class="subtitle"><a href="#mytops">My Tops</a></h2>
+        <div id='top3User'></div>
+				
+				<div class="big-gap"></div>
+
+				<h2 id="new-rating" class="subtitle" style="border-width: 1px 1px 0px 1px; border-style: solid; border-color: darkgrey;">New Rating</h2>
+
+				<form style="padding: 5px;">
+					<div data-role="fieldcontain" style="margin: 0px">
+						<label for="beertitle">
+							<a class="link_to_choosebeer" href="#" style="color: #2489CE; font-weight: bold; font-size: 16px; line-height: 24px;">Beer</a>
+						</label>
+						<input class="link_to_choosebeer" id="beertitle" value="" placeholder="Your Beer..." readonly="readonly" style="color: black; font-family: Verdana,Helvetica,​Arial,​sans-serif; font-size: 14px; font-weight: normal; line-height: 18px; margin: 0; padding: 0; text-align: center; padding: 10px 0px 10px 0px;">						
+						<input id="beer" value="" type="hidden">
+
+						<label for="location">Location</label>
+						<select name="location" id="location">
+							<option value="At Home">Anywhere</option>
+							<option value="At Home">At Home</option>
+							<option value="O'Connors">O'Connors - Vienna</option>
+							<option value="Red Lion">Red Lion - Vienna</option>
+							<option value="Hofbräuhaus">Hofbräuhaus - Munich</option>
+						</select>
+
+						<label for="rating">Rating:</label>
+						<input name="rating" id="rating" min="1" max="10" value="5" type="range">
+
+						<label for="comments">Comment</label>
+						<textarea cols="40" rows="8" name="comments" id="comments" value="ccc"></textarea>
+					</div>
+
+					<button type="submit" id="postNote">Post Rating</button>
+				</form>
+				
+				<p><a href="#positionsbestimmung">Positionsbestimmung</a></p>
+				
+			</div><!-- /content -->
+			<div data-role="footer" data-theme="none">
+				{% include footer.html %}
+			</div><!-- /footer -->
+		</div><!-- /page -->
+
+
+		<div id="hots" data-role="page" data-title="Pints - Hots">
+			<div data-role="header" data-theme="e">
+				<header>
+					{% include header.html %}
+					<h1>Hots at Pints</h1>
+				</header>				
+			</div><!-- /header -->
+			<div data-role="content" data-theme="c">
+				<div id='hot'></div>
+			</div><!-- /content -->
+			<div data-role="footer" data-theme="none">
+				{% include footer.html %}
+			</div><!-- /footer -->
+		</div><!-- /page -->
+
+
+		<div id="tops" data-role="page" data-title="Pints - Tops">
+			<div data-role="header" data-theme="e">
+				<header>
+					{% include header.html %}
+					<h1>Tops at Pints</h1>
+				</header>
+			</div><!-- /header -->
+			<div data-role="content" data-theme="c">
+				<div id='top'></div>
+			</div><!-- /content -->
+			<div data-role="footer" data-theme="none">
+				{% include footer.html %}
+			</div><!-- /footer -->
+		</div><!-- /page -->
+
+
+		<div id="mytops" data-role="page" data-title="Pints - My Tops">
+			<div data-role="header" data-theme="e">
+				<header>
+					{% include header.html %}
+					<h1>My Tops at Pints</h1>
+				</header>				
+			</div><!-- /header -->
+			<div data-role="content" data-theme="c">
+				<div id='topUser'></div>
+			</div><!-- /content -->
+			<div data-role="footer" data-theme="none">
+				{% include footer.html %}
+			</div><!-- /footer -->
+		</div><!-- /page -->
+
+		<div id="choosebeer" data-role="page" data-title="Pints - Choose Beer">
+			<div data-role="header" data-theme="e">
+				<header>
+					{% include header.html %}
+					<h1>Pints - Choose Beer</h1>
+				</header>				
+			</div><!-- /header -->
+			<div data-role="content" data-theme="c">
+				<ul id="beers" data-role="listview"	data-ajax="false" data-filter="true" data-filter-reveal="true" data-filter-placeholder="Search Beers..." data-inset="true">
+					<li><a id="corona" href="#">Corona</a></li>
+					<li><a id="fullersesb" href="#">Fuller's ESB</a></li>
+					<li><a id="fullerslondonpride" href="#">Fuller's London Pride</a></li>
+					<li><a id="ottakringerhelles" href="#">Ottakringer Helles</a></li>
+					<li><a id="schwechaterlager" href="#">Schwechater Lager</a></li>
+					<li><a id="zipfermaerzen" href="#">Zipfer Märzen</a></li>
+				</ul>
+			</div><!-- /content -->
+			<div data-role="footer" data-theme="none">
+				{% include footer.html %}
+			</div><!-- /footer -->
+		</div><!-- /page -->
+		
+		
+		<div id="positionsbestimmung" data-role="page" data-title="positionsbestimmung">
+			<div data-role="header" data-theme="none">
+				<header>
+					{% include header.html %}
+					<h1>Yourney</h1>
+				</header>
+			</div><!-- /header -->
+
+			<div data-role="content" data-theme="c">
+				<table>
+					<tr id="longitude">
+						<th>Longitude:</th>
+						<td></td>
+					</tr>
+					<tr id="latitude">
+						<th>Latitude:</th>
+						<td></td>
+					</tr>
+					<tr id="genauigkeit">
+						<th>Genauigkeit:</th>
+						<td></td>
+					</tr>
+
+					<tr id="altitude">
+						<th>Altitude:</th>
+						<td></td>
+					</tr>
+					<tr id="genauigkeitAltidute">
+						<th>Genauigkeit Altitude:</th>
+						<td></td>
+					</tr>
+					
+					<tr id="speed">
+						<th>Speed:</th>
+						<td></td>
+					</tr>
+				</table>
+			
+				<img src="" id="map">
+			</div><!-- /content -->
+				
+			<div data-role="footer" data-theme="none">
+				<footer>
+					{% include footer.html %}
+				</footer>
+			</div><!-- /footer -->
+		</div><!-- /page -->

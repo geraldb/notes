@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="de">
+
+	<head>
+		<meta charset="utf-8">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="stylesheet" href="css/mobile.css">
+
+		<link rel="stylesheet" href="css/jquery.mobile-1.3.1.css">
+
+    <!-- 3rd party js libs -->
+    <script src="js/libs/jquery-1.8.2.min.js"></script>
+    <script src="js/libs/jquery.mobile-1.3.1.js"></script>
+    <script src="js/libs/underscore-1.4.4.min.js"></script>
+    
+    <!-- our own js -->
+    <script src="js/beer.api.js"></script>
+    <script src="js/pints.js"></script>
+
+
+		<title>Beers</title>
+	</head>
+
+	<body>
+
+<script>
+	var positionsAusgabe = function(position){
+		$('#longitude td').html(position.coords.longitude);
+		$('#latitude td').html(position.coords.latitude);
+		$('#genauigkeit td').html(position.coords.accuracy+" Meter");
+		$('#altitude td').html(position.coords.altitude);
+		$('#genauigkeitAltidute td').html(position.coords.altitudeAccuracy+" Meter");
+		$('#speed td').html(position.coords.speed);
+		
+		$('#map').attr('src','http://maps.google.com/maps/api/staticmap?center='+position.coords.latitude+','+position.coords.longitude+'&zoom=13&size=512x512&markers=color:blue|label:X|'+position.coords.latitude+','+position.coords.longitude+'&sensor=true')
+	}
+</script>
+
+<!-- include our own ejs (embedded javascript) templates -->
+<script type="text/template" id="hotTpl">
+{% include templates/hot.html %}
+</script>
+
+<script type="text/template" id="topTpl">
+{% include templates/top.html %}
+</script>
+
+	{{ content }}
+	</body>
+</html>
