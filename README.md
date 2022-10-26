@@ -10,12 +10,13 @@ Presentation (Slides) to Download (in PDF) Week by Week - <https://github.com/Un
 
 
 Week 1 - What is an Non-Fungible Token?
- - Technical primer:
+
+- Technical primer:
    - A brief introduction to ETH, ERC-20, ERC-721, ERC-1155
    - The structure of ERC-721 and ERC-1155 tokens
    - Contract types (standalone, shared)
    - Marketplaces
- - Main uses of Non-Fungible Tokens to-date:
+- Main uses of Non-Fungible Tokens to-date:
    - Profile Pictures (PFPs)
    - Generative Art
    - 1 of 1 art, including photography
@@ -23,26 +24,27 @@ Week 1 - What is an Non-Fungible Token?
    - Metaverse assets
    - Access passes / Utility focused
    - Representations of offchain assets
- - Market size and structure
- - Non-Fungible Tokens - a generic container for intangible assets?
+- Market size and structure
+- Non-Fungible Tokens - a generic container for intangible assets?
 
 
 Week 2  - Copyright and Provenance in Non-Fungible Tokens
-  - Copyright and Trademarks in traditional art
-  - "Right Click Save As"
-  - Copyright vs Provenance in Non-Fungible Tokens
-  - Rights management in NFTs
-  - Commercial rights
-  - Public domain / permissive licensing models
+
+- Copyright and Trademarks in traditional art
+- "Right Click Save As"
+- Copyright vs Provenance in Non-Fungible Tokens
+- Rights management in NFTs
+- Commercial rights
+- Public domain / permissive licensing models
 
 
-- Week 3 - Profile Pictures (PFPs) - October, 2022
-  - What is a PFP?
-  - PFPs and community building
-  - PFPs as publicly writeable databases
-  - PFPs and other forms of decentralized identity
-  - Future opportunities and challenges in PFPs
-
+Week 3 - Profile Pictures (PFPs) - October, 2022
+ 
+- What is a PFP?
+- PFPs and community building
+- PFPs as publicly writeable databases
+- PFPs and other forms of decentralized identity
+- Future opportunities and challenges in PFPs
 
 What is a PFP?
 
@@ -218,20 +220,22 @@ with many outstanding issues: valuation, utility, licensing model, revenue model
 Source:  [w03-presentation.pdf](https://github.com/UniversityOfNicosia/META511MC-Course-Materials/blob/main/Fall-2022/Presentations/META511-01-f22-w03-presentation.pdf)
 
 
-- Week 4  - Art Non-Fungible Tokens, Part I: Crypto Art ("1 of 1s")  - October, 2022
-  - Non-Fungible Tokens as a platform and medium for digital art
-  - CryptoArt
-  - Cross-over Artists
-  - Photography
-  - Future directions
+Week 4  - Art Non-Fungible Tokens, Part I: Crypto Art ("1 of 1s")  - October, 2022
+
+- Non-Fungible Tokens as a platform and medium for digital art
+- CryptoArt
+- Cross-over Artists
+- Photography
+- Future directions
 
 
-- Week 5  - Art Non-Fungible Tokens, Part II: Generative Art   - November, 2022
-  - Non-Fungible Tokens, the natural medium for generative art?
-  - The history of generative art (1950s to date)
-  - On-blockchain generative art
-  - Long-form generative art
-  - Future directions in generative art?
+Week 5  - Art Non-Fungible Tokens, Part II: Generative Art   - November, 2022
+ 
+- Non-Fungible Tokens, the natural medium for generative art?
+- The history of generative art (1950s to date)
+- On-blockchain generative art
+- Long-form generative art
+- Future directions in generative art?
 
 
 
