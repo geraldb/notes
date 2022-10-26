@@ -1,8 +1,0 @@
-
-exclude:
-- 'README.md'
-- 'beer.db'
-- 'Rakefile'
-- '*.db'
-- '*.kpf'
-

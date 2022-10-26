@@ -1,4 +1,4 @@
-# beer.db.mobile
+# Awesome Metaverse(s) - All About Profile Pictures (PFPs), Digital Identities / Avatars & More
 
-mobile beer app using the beer.db HTTP JSON API
+
 
