@@ -1,0 +1,28 @@
+
+- [ ] add support for beards to punkmaker and openpunkart!!!
+- [ ] add support for eye color to punkme
+
+
+---
+
+try different (5?) versions of (golden) blonde colors !!!
+-> https://www.color-hex.com/color-palette/85503
+
+---
+
+add eight (?) hair styles
+from https://opensea.io/collection/barbypunks
+
+- and hair colors
+    - blonde
+    - red
+    - brunette
+    - black
+
+
+and generate samples
+- add too openpunkart hair more - why? why not?
+
+
+
+
