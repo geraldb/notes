@@ -2,6 +2,9 @@
 # ignore all .env files
 .env
 
+###
+# ignore cache directories  (eg. for gems api cache etc.)
+cache/
 
 #############
 # ignore all tmp directories
