@@ -1,0 +1,25 @@
+
+Java Developer (w/m/d) - Teilzeit (25h)
+
+- Ihr Kontakt im BRZ
+  Martin Mühlbäck, +43 664 6128577, Talent Acquisition & Development
+
+Eigenständige Analyse und Umsetzung von Arbeitspaketen unter Einhaltung der Qualitäts- und Sicherheitskriterien
+Durchführung von Aufwands- und Komplexitätsschätzungen
+Erstellung und Durchführung umfassender Entwicklungstests (Unit- & Integrationtests)
+Mitwirkung beim Störungsmanagement und Problemmanagements (3rd Level Support)
+Erstellung und Pflege der Dokumentation
+Aktive Zusammenarbeit bei Pair Programming Sessions und Code Reviews
+Sie bringen mit
+Mindestens 2 Jahre Berufserfahrung in agiler Entwicklung von Java/JavaScript-basierten Webanwendungen
+Gute Kenntnisse in Java, Spring, SQL
+Expertise in der Erstellung und Durchführung von Entwicklungstests mittels JUnit
+Selbständige und lösungsorientierte Arbeitsweise
+Hohes Verantwortungs- und Qualitätsbewusstsein
+Eigeninitiative und Teamfähigkeit
+ 
+
+Idealerweise Erfahrung mit:
+Tools: IntelliJ IDEA, Git, Maven, Jenkins, SonarQube
+Atlassian Tool Suite (JIRA, Conﬂuence)
+Je nach Ausbildungsgrad und facheinschlägiger Berufserfahrung gilt laut BRZ-Kollektivvertrag ein Jahresbruttogehalt ab EUR 48.744,22 bei vollständiger Erfüllung des Anforderungsprofils. Diese Gehaltsangabe bezieht sich auf eine Vollzeitanstellung im Ausmaß von 38,5 Wochenstunden, die Berechnung des Gehalts auf Teilzeitbasis erfolgt aliquot. Bei mehrjähriger Berufserfahrung ist abhängig von den fachspezifischen Qualifikationen eine Überzahlung möglich. In dieser Position können Sie in Teilzeit ab 25 Stunden/Woche starten.

@@ -1,0 +1,72 @@
+Hello Tractive,
+
+    I am big (open source) ruby fan / programmer from Austria 
+with a dozen published gems and I live near Krems/Donau 
+and would love to work on ruby / jruby at Tractive.   
+Some years ago I even gave a talk at the local Linz Ruby User Group 
+at Tractive in Pasching 
+( about static website generation with ruby (and jekyll or such).
+
+Anyways, I am open for full-time or part-time 
+and would be thrilled to talk in person in Linz / Pasching 
+how I might fit in and can contribute to the success of Tractive.
+
+While for now I am not living in Linz (it's an 1 hour+ commute to Linz)  
+I am a big fan of Linz too and have, for example, volunteered to talk at local meetups 
+e.g. (Linz) Techplauscherl or Stahlstadt.js this year 
+(see  https://github.com/geraldb/talks )  
+or long time ago at the Ruby Linz User Group three times. 
+
+Looking forward to your answer  (in English or German).
+
+Yours truly,
+    Gerald Bauer
+
+PS:   The easiest way to reach me is by email - gerald.bauer@gmail.com 
+
+
+---
+
+Thanks for your application.
+We sent you a mail to let you know about what to expect next.
+
+---
+
+As part of our Software team, you will:
+
+See your code make a difference in the life of pet lovers worldwide in matter of weeks, if not days
+Design and implement core APIs
+Work on the back-end systems handling data from our GPS devices
+Handle and optimize our internal manufacturing, logistics and return management applications
+Build prototypes for future projects
+Optimize availability and scalability for existing services
+Stay up to date with state-of-the-art tech
+Bring in your fresh ideas to make Tractive better - you’ll never hear the phrase “...because that’s how we’ve always done things”
+Continuously grow personally and professionally, take ownership of areas that show your potential, and attend workshops which help you get to the next level
+Your profile
+
+Key requirements:
+At least 3 years of hands-on experience with Ruby on Rails
+Experience with NoSQL databases (e.g. MongoDB, Redis) and Message Queues
+Worked with Docker, Message Queues, Continuous Deployment, or similar
+Very good English skills
+Valid Austrian work permit
+ 
+
+Does this sound like you?
+Analytical thinker with great problem-solving skills
+Eager to take responsibility
+Motivated to work on highly available systems
+Lives the mantra "Release early, release often"
+An easy-going team player who loves a good challenge
+Willing to come and work with our fantastic team in Austria
+
+
+Salary range
+Just so you know what to expect: 
+For this position, we offer a competitive overpayment based 
+on qualification and experience. 
+Annual gross salary starts at € 60,000 full-time - at Tractive that means 
+a 4-day work week with a 3-day weekend. 
+If you bring relevant experience in many of the fields of responsibility, 
+the salary will be considerably higher.
