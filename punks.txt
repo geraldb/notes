@@ -1,3 +1,22 @@
+links & more
+============
+
+Punk Builder by ?? (a.k.a. The Punk Animator) - 
+<https://thepunkanimator.xyz>
+
+D.I.Y. Punk Builder by Adam Urban (a.k.a. Urbanisierung) in Karlsruhe, Germany - 
+<https://diypunks.xyz>
+
+
+
+
+
+
+
+
+
+todos & ideas
+=============
 
 - [ ] add support for beards to punkmaker and openpunkart!!!
 - [ ] add support for eye color to punkme
@@ -23,6 +42,6 @@ from https://opensea.io/collection/barbypunks
 and generate samples
 - add too openpunkart hair more - why? why not?
 
-
+---
 
 
