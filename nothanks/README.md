@@ -157,6 +157,24 @@ wieso die Stelle noch immer im Internet ausgeschrieben ist nach Wochen (Monaten)
 
 ## re: Deine Bewerbung bei Tractive
 
+
+Hallo Gerald,
+
+ich hoffe, das "Du" ist in Ordnung für dich. 
+Das ist bei uns in der Firma so üblich. Vielen Dank für deine Bewerbung bei Tractive.
+
+Bevor wir weiter im Bewerbungsprozess gehen, haben wir noch ein paar Fragen zu deiner Bewerbung. Deshalb möchten wir ein kurzes (15 Minuten) Telefonat vorschlagen:  13.09.2023 @ 14:00 Uhr
+
+Bitte bestätige den Termin oder lass mich wissen, wann es für dich besser passt. Wir werden dich dann bei deiner angegebenen Telefonnummer anrufen.
+
+Liebe Grüße,
+
+Christina Miesbauer // 
+Talent Acquisition Lead //
+Tractive GmbH
+
+---
+
 Hallo Gerald,
 
 ich freue mich, mit dir in Kontakt treten zu dürfen, da meine Kollegin Christina [Miesbauer] ein paar Tage Auszeit genießt.
@@ -252,6 +270,12 @@ PS: Die Empfehlung war gedacht auf eine andere Stelle / anderer Job im Unternehm
 
 Keine Antwort mehr.  Und auf eine weitere Nachfrage:
 
+Wäre eine FUCK YOU nicht ehrlicher?  
+wenn's darum geht "präzise und zielgerichtet zu kommunizieren"?
+
+Gerald hat sich sehr gefreut, mit dir zu sprechen!
+
+---
 
 Hallo Gerald,
 
