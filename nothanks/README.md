@@ -17,10 +17,10 @@ Wir nehmen uns für Ihre Bewerbung ausreichend Zeit – da dies etwas Zeit in An
 
 Mit freundlichen Grüßen
 
-Martin Mühlbäck
-Talent Acquisition & Development
+Martin Mühlbäck  //
+Talent Acquisition & Development  //
 Bundesrechenzentrum GmbH
-Hintere Zollamtsstraße 4, 1030 Wien
+
 
 ---
 
@@ -39,10 +39,9 @@ Wir bedauern es sehr, Ihnen trotz guter Qualifikation derzeit keine positive Nac
 
 Für Ihre kommenden beruflichen Schritte wünschen wir Ihnen viel Erfolg!
 
-Martin Mühlbäck
-Talent Acquisition & Development
+Martin Mühlbäck //
+Talent Acquisition & Development //
 Bundesrechenzentrum GmbH
-Hintere Zollamtsstraße 4, 1030 Wien
 
 ---
 
@@ -63,10 +62,11 @@ Für Ihre kommenden beruflichen Schritte wünschen wir Ihnen viel Erfolg!
 
 
 Viele Grüße
-Paul Posch
-Talent Acquisition & Development
+
+Paul Posch //
+Talent Acquisition & Development //
 Bundesrechenzentrum GmbH
-Hintere Zollamtsstraße 4, 1030 Wien
+
 
 ---
 
@@ -75,7 +75,7 @@ SgH Paul Posch,
 > würden uns freuen, wenn wir in Kürze hinsichtlich einer anderen vakanten Position ins Gespräch kommen
 
 Da sie sicher einen besseren Überblick haben über die offenen
-Stellen - darf ich bitten welche offe Stelle oder Stellen in ihren
+Stellen - darf ich bitten welche offene Stelle oder Stellen in ihren
 Augen passend(er) wäre?
 
 Ich bedanke mich im voraus für die Mithilfe.
@@ -87,8 +87,9 @@ Guten Tag Herr Bauer,
 danke für Ihre Nachricht. Mit Ihrem Einverständnis versuche ich mich in den Fachbereichen für Sie nochmals umzuhören. Sobald es ein Feedback gibt, gebe ich Bescheid.
 
 Beste Grüße
-Paul Posch
-Talent Acquisition & Development
+
+Paul Posch //
+Talent Acquisition & Development //
 Bundesrechenzentrum GmbH
 
 
@@ -103,9 +104,11 @@ Sehr geehrter Herr Bauer,
 danke für Ihre Nachricht. Leider kann ich Ihnen keine alternativen Optionen anbieten und bedanke mich für Ihr Interesse am BRZ.
 
 Schönes Wochenende und beste Grüße
-Paul Posch
-Talent Acquisition & Development
+
+Paul Posch  //
+Talent Acquisition & Development  //
 Bundesrechenzentrum GmbH
+
 
 
 
@@ -123,7 +126,8 @@ We will carefully review your application and reply to you via email in case we 
 Again, thanks for your interest in joining our team, highly appreciated!
 
 Have a great day,
-Henning Möller
+
+Henning Möller //
 Talent Partner, Meister Labs
 
 ---
@@ -139,18 +143,15 @@ Unfortunately, we do not have good news for you. From the huge amount of very go
 We nevertheless wish you all the best for your future endeavors and who knows, maybe our paths will cross again in the future? 
 
 Best,
-Henning Möller 
+
+Henning Möller  //
 Talent Partner, Meister Labs
-
-
 
 ---
 
 
 Nach neuer Rückfrage an Henning 
 wieso die Stelle noch immer im Internet ausgeschrieben ist nach Wochen (Monaten). Keine (AUTOMATIC-EMAIL) Antwort mehr.
-
-
 
 
 
@@ -242,10 +243,10 @@ sehr entgegenkommend und freundlichst warst.
 
 
 Mit freundlichen Gruss
+
 Gerald Bauer
 
 PS: Die Empfehlung war gedacht auf eine andere Stelle / anderer Job im Unternehmen ;-) - gerne auch JavaScript oder Java etc.. 
-
 
 ----
 
@@ -257,6 +258,5 @@ Hallo Gerald,
 Nach deiner Nachricht haben wir keine weiteren Punkte zu klären. Dieser Ton und diese Wortwahl passt weder zu einer Nachricht an einen Bekannten, an einen möglichen Arbeitgeber oder an irgend einen anderen Menschen der sich die Zeit nimmt dir zu antworten. Ich bitte dich, von weiteren Nachrichten Abstand zu nehmen.
 
 ---
-
 
 
