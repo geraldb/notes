@@ -21,6 +21,13 @@ die Hetze gegen den Bruder einzustellen - kein Verständnis
 außer Vater Franz stößt sich an Grüne Nazi 
 dass sind ja alles Grüne Kommunisten und keine Nazi!
 
+[Zur Politische Überzeugung - Gerald Bauer (ich) bin ein Freund 
+von Erasmus und Politischer Unabhängigkeit und Humanismus etc. -
+kein Parteigänger der Grünen (wenn auch Unterstützer von Klimaschutz, Progressiver Politik, etc.) - wie auch immer. Eine Diskussion / Debate "der Feinheiten" seit Jahren nicht möglich.]
+
+
+
+
 "Operation D-Day"  - Projektname des Bruders Franz für die Vennichtung und Tot des Bruders. Der Tag an dem Franz mich nie wieder sieht - ein Freudentag der Befreiung? 
 
 
