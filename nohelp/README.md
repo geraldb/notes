@@ -5,6 +5,17 @@ Notizen zum Totalabsturz im Oktober 2023
 und Dokumentation der Hilferufe.
 
 
+Mehr Hintergrund:
+
+Siehe auch [No Family](../nofamily)
+oder [No Thanks](../nothanks)  oder
+den Auslöser / Beginn der Teufelspirale 
+in der Coronapandemie [Dokumente und Notizen zum Fall Mammad Kabiri @ Uniqa](https://github.com/bigkorupto/sources).
+
+
+
+
+
 **Oktober 9  -  Bescheid zum Auschluss / Streichung der Notstandshilfe von 13.09.2023 bis 07.11.2023 mit dem Bescheid vom 9. Oktober 2023**
 
 
