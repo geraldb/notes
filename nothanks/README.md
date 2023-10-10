@@ -284,3 +284,60 @@ Nach deiner Nachricht haben wir keine weiteren Punkte zu klären. Dieser Ton und
 ---
 
 
+
+## re: Bewerbung bei Loob
+
+Servus Ed Prinz,
+
+  Ich bedanke mich nochmals für die vielen NFT Events wenn auch
+irgendwie ich als Code Monkey / Krypto Programmierer irgendwie keinen
+Anschluß (oder irgeneine Art von Unterstützung) gefunden habe.
+
+  Wie auch immer - mit Ordinals und Inscriptions ist die Branche im
+Umbruch mit Layer L1 (L1) "Off-Chain" Indexer usw.    Meine Beiträge
+etwa zu Bitcoin / Litecoin / Dogecoin Ordinals  hier ->
+https://github.com/ordbase
+und zu Ethscriptions / Ethscription VM hier ->
+https://github.com/s6ruby/rubidity
+
+  Falls Du / Ihr irgendetwas in die Richtung vorhabt freue ich mich
+gerne über eine Zusammenarbeit.
+
+ Mit freundlichen Gruss
+   Gerald Bauer
+
+---
+
+Keine Antwort.
+
+
+
+
+## General Application (m/f/d) Blockchain Research - ABC (Austrian Blockchain Center) Research 
+
+Sehr geehrte Blockchainer,
+SgH Klaus Pirklbauer,
+
+  Ich weiss es mag absurd sein aber mein Interesse an Blockchain ist
+ungebrochen und die Industrie ist im Umbruch. Der Trend ist Layer 1
+(L1) muss mehr hergeben etwa mit Inscriptions und "Off-Chain" Indexer
+ermöglicht neue Protokolle inkl. "Dumb" Contracts mit "Off-Chain"
+Storage usw.
+
+Meine Beiträge etwa hier -> https://github.com/ordbase
+und hier -> https://github.com/s6ruby/rubidity
+
+Wie auch immer. Ich würde mich auf ein Gespräch oder eine
+Zusammenarbeit oder Unterstützung etwa durch Teilzeitanstellung mehr
+als freuen.
+
+Mit freundlichen Gruss
+   Gerald Bauer
+
+
+---
+
+Keine Antwort.
+
+
+
