@@ -294,7 +294,7 @@ irgendwie ich als Code Monkey / Krypto Programmierer irgendwie keinen
 Anschluß (oder irgeneine Art von Unterstützung) gefunden habe.
 
   Wie auch immer - mit Ordinals und Inscriptions ist die Branche im
-Umbruch mit Layer L1 (L1) "Off-Chain" Indexer usw.    Meine Beiträge
+Umbruch mit Layer 1 (L1) "Off-Chain" Indexer usw.    Meine Beiträge
 etwa zu Bitcoin / Litecoin / Dogecoin Ordinals  hier ->
 https://github.com/ordbase
 und zu Ethscriptions / Ethscription VM hier ->
