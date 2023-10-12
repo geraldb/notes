@@ -469,12 +469,41 @@ Totalabsturz sich erübrigen - da kein Anfahrt per Zug, usw.
 
 ---
 
+13h Cafe Wachau (Stein). Zwei Polizisten suchen Gerald Bauer. "Gerald Bauer? Is der hier?"
+Ich sitze in der Ecke und melde mich. Was ist los?
 
+Die Kranschreibung Anfrage wird als schriftliche Forum und Ankündigung des Selbstmord
+interpretiert und daher werde ich jetzt per Polizei UND Ambulanz direkt ins
+Irrenhaus überstellt.
 
-
+Jede Rede das die Notkrise noch da ist solange ich noch die letzten zwei hundert
+auf dem Konto habe. Jeder Versuch der Erklärung wird as Geschwafel abgetan -
+das Ziel ist das Irrenhaus zur Untersuchung bei der Psychiaterien in der Anstalt.
 
 
 ## Willkommen in der Anstalt!
+
+Eine Psychiaterin hat nichts lieber als Irre mit Psychosesn  Das der Kern des Problem
+die fehlenden 500 Euro sind - wird beseite geschoben anstatt bin ich ein Freudensfest 
+an Psychosen (Narzist, Wirre Gedanken, Realitätsverweigerung, usw.). 
+Das Urteil: Der bleibt da. Willkommen in der Anstalt.
+
+
+Deine Gedanke sind wirr, sagt die Psychitaterin. "Die richten wir jetzt gerade!"
+Nimm' diese zwei Pillen zum klaren Denken.
+
+Absurd. Aber schon sind zwei / drei / vier Assistenen dabei und schreien
+"Nimn' dise Pillen!" oder wir müssen dich zwangspritzen.
+Das geht so 3x 5x bis zum Höhepunkt. Jetzt is das Pulverl weg!
+Jetzt wird gespritzt, mein Freund? Noch eine letzte Chance
+"freiwillig" das Pulver zu schlucken?
+
+Ich schlucke zwei Pulvers und weis nicht den Namen, den Wirkstoff und sonstiges.
+
+
+Fortsetzung folgt...
+
+----
 
 SgH Stefan Pfefferkorn,
 Liebe Ombudsstelle des AMS NÖ,
