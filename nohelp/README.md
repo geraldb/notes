@@ -489,7 +489,7 @@ an Psychosen (Narzist, Wirre Gedanken, Realitätsverweigerung, usw.).
 Das Urteil: Der bleibt da. Willkommen in der Anstalt.
 
 
-Deine Gedanke sind wirr, sagt die Psychitaterin. "Die richten wir jetzt gerade!"
+Deine Gedanken sind wirr, sagt die Psychitaterin. "Die richten wir jetzt gerade!"
 Nimm' diese zwei Pillen zum klaren Denken.
 
 Absurd. Aber schon sind zwei / drei / vier Assistenen dabei und schreien
