@@ -358,8 +358,8 @@ Ihre Bewerbung wurde erfolgreich gespeichert!  10x
 auch um eine Rat was ich tun soll und wie ich vielleicht meine Leben
  retten kann.   Danke für die Hilfe.
 
-     Mit freundlichen Grüßen
-      Gerald Bauer
+Mit freundlichen Grüßen
+Gerald Bauer
 
 PS:   Als Hintergrund. Ich habe eine HAK Matura Krems/Donau und einen
 Magister der Wirtschaftsuniversität Wien (alte Stuidienordnung) - 7
@@ -476,7 +476,7 @@ Die Kranschreibung Anfrage wird als schriftliche Forum und Ankündigung des Selb
 interpretiert und daher werde ich jetzt per Polizei UND Ambulanz direkt ins
 Irrenhaus überstellt.
 
-Jede Rede das die Notkrise noch da ist solange ich noch die letzten zwei hundert
+Jede Rede das die Notkrise noch nicht da ist solange ich noch die letzten zwei hundert
 auf dem Konto habe. Jeder Versuch der Erklärung wird as Geschwafel abgetan -
 das Ziel ist das Irrenhaus zur Untersuchung bei der Psychiaterien in der Anstalt.
 
