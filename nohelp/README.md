@@ -419,10 +419,91 @@ und darduch dem Wahnsinn zu entkommmen die Atombombe zu bauen.
 Überlegungen bei der Rückfahrt mit dem Zug Krems-Wien wie geht's weiter?
 Der Gedanke läßt mich nicht los und ich entschließe mich 
 eine neue Nachricht den Ombudsmann (AMS Hilfe NÖ) zu schicken mit 
-Bitte um Klräung ob eine Krankschreibung bei der Hausärztin die Sperre aufhebt.
+Bitte um Klärung ob eine Krankschreibung bei der Hausärztin die Sperre aufhebt.
+
+
+
+SgH Stefan Pfefferkorn,
+Liebe Ombudsstelle des AMS NÖ,
+
+Ich sehe jetzt es war ein Fehler nicht die absurde Pro-Forma Bewerbung an
+Steinecker Putz Sau & Rein zu schicken damit ich mit offizieller
+Bestätigung ablehnt werde als untauglich. Da der Informatike sagt -
+können wird das nicht automatisieren mit Saugroboter?
+
+Sorry für den schwarzen Humor in meinen letzten Tagen am Abgrund
+vor dem Tot. Eh schon wurst.
+
+Ich überdenke heute nochmals die Absurdidät die traurigerweise
+näher an der Wahrheit ist -
+d.h.  wenn die Krankschreibung hilft um die Sperre aufzuheben dann werde ich
+bei der Hausärztin vorsprechen um mich als akut selbst-mordgefährdet
+und kaputten mensch krank schreiben lassen und bei der AMS einreichen.
+
+Duch die Sperre verliere ich in den nächsten Tagen:
+
+- Das Zugticket (und damit die Möglichkeit nach Tulln, Krems, Wien zu
+Amtsterminen oder auch Vorstellungstermine zu kommen usw)
+- Das Bankkonto - da kein Kredit und die (Abbuchung)Zahlungen werden
+abgewissen - da Stand 0 und die Gebühr für das Konto ist auch Euro
+9/Monat oder so.
+- Die Unterkunft (mit Gewaltspirale/eskalation) ist auch zu erwarten.
+
+Darf ich bitten ob in meinen Fall eine Krankschreibung hilft um die
+Sperre aufzuheben? 
+
+Danke. Mit freundlichen Gruss.
+
+Gerald Bauer
+
+PS:  Ich war heute bei Notfall-beratung aufgrund ihrer Empfehlung bei
+der Hebebühne und ich wurde herzlichst informiert über die
+Obdachlosenunterbringung und die Essenshilfe beim Roten Kreuz (wie ich
+nach Tulln komme ist die Frage?). Ich hoffe der Totalabsturz kann
+irgendwie noch abgewiesen werde.  Ich werde beim Bürgermeister bzw. am
+Gemeindeamt vorsprechen und um Hilfe (konkret 500 Euro Kredit bitten)
+und auch bei einigen Privatpersonen - aber ich nehme an da gibt's
+Verständnis aber keinen Groschen.   Und darf ich auf die Absurdität
+hinweisen das ich über 10 Bewerbungen laufen habe - die mit dem
+Totalabsturz sich erübrigen - da kein Anfahrt per Zug, usw.
+
+---
 
 
 
 
+
+
+## Willkommen in der Anstalt!
+
+SgH Stefan Pfefferkorn,
+Liebe Ombudsstelle des AMS NÖ,
+
+ Absurd. Jetzt holt mich die Polizei aus meinem Asyl (im Cafehaus
+Krems in Stein) mit dem Auftrag der Ablieferung im Irrenhaus. Einige
+Stunden später bin ich jetzt eingesperrt und der Richter hat den
+Antrag duchgewunken - nächster Termin in zwei Wochen - und die
+Physiotherapeuten freuen sich auf neues Material / Neukunden.
+
+ Das Kernprogram (die Lösung) ist die Auszahlung der Notstandshilfe -
+daher darf ich bitten dass alles palleti ist und der
+(prognostizierte) Absturz leicht vermieden werden kann - wennn ich das
+Geld bekomme für den Notstand für Bahnkarte, Miete, Essen, usw.
+
+ Mich mit Zwangspritzen versuchen meine "zerstreueten" Gedanken
+auszurichten ist volliger Unsinn und überschreitet die Grenze der
+Achtung der Menschenwürde.    Das ist Tag 1.    Darf ich nochmals
+bitten die Speerung aufzuheben - als dank komme ich so sicher wieder
+auf die Beine (10+ Bewerbungen laufen, 2+ Anfragen zum Thema Krypto
+als Mitarbeiter in Start-up, etc).
+
+  Was sehe  / verstehe ich  nicht - damit ich diesen Absturz
+verhindern kann? Hier bei den Irren mit Gewaltspritzen  - das ist
+keine Zukunft zum Besseren.  Wenn ich irgendetwas tun kann, um zu
+helfen, dann bitte melden
+
+Mit freundlichen Gruss
+
+Gerald Bauer
 
 
