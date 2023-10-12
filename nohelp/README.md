@@ -394,3 +394,35 @@ Danke. Ich weis nicht weiter.
 Gerald Bauer
 
 
+### Mittwoch, September 11, 2023
+
+9h Termin vor Ort bei Hebebühne (Tulln) mit Marlene Kassama-Gruber. 
+Gespräch über das AMS und die Auszahlung und Sperre von Notstandhilfe 
+mit kurzen Hinweis bei Krankmeldung wird der "Ausschluß"
+vom Notstandsgeld ungültig.  Weiters Beratung über die Obdachlosenhilfe 
+und ein Zimmer beim Verein Möwe auch auch Essensausgabe beim Roten Kreuz.
+
+Auch eine kurze Disskussion und Debatte über das System 
+und die Macht der Pragraphen und "moderner" der Algorithmen. 
+Die Paragrah §10 Sperre (kein Geld) auch wenn im Notstand ist 
+das Gesetz und das System ist unfehlbar und antastbar.
+
+Wer keine (Pro-Forma) Bewerbung auf ein Angebot mit §10 abschickt auch wenn
+die absurde Bewerbung abgelehnt wird und das Theater nicht mitspielt
+(für die Statistik?) dem wird alles gestrichen.
+
+Wenn das System fordert (wie bei Dürrenmatt in Die Physiker geschrieben)
+Atombomben zu bauen um die Menscheit zu vernichten - dann scheint der
+einzige Weg, das Irrenhaus. Die Physiker deklarieren sich als Wahnsinnige
+und darduch dem Wahnsinn zu entkommmen die Atombombe zu bauen.  
+
+Überlegungen bei der Rückfahrt mit dem Zug Krems-Wien wie geht's weiter?
+Der Gedanke läßt mich nicht los und ich entschließe mich 
+eine neue Nachricht den Ombudsmann (AMS Hilfe NÖ) zu schicken mit 
+Bitte um Klräung ob eine Krankschreibung bei der Hausärztin die Sperre aufhebt.
+
+
+
+
+
+
