@@ -535,11 +535,15 @@ Mit freundlichen Gruss
 
 Gerald Bauer
 
+
 ----
 
-(Zwangs-) Unterbringungszeugnis  - Anlagedatum 11. Oktober, 2024
+(Zwangs-) Unterbringungszeugnis, Dokument-ID: 7039341
 
-Dokument-ID: 7039341
+Tulln am 11. Oktbober, 2023 - Uhrzeit: 17:55
+
+von OA Dr. Ramona Feichtinger (Landeskrankenhaus Tulln)
+
 
 Aufenthalt:  von 11.10.2023 bis __________
 
@@ -574,8 +578,95 @@ sein ein Flüchtling [aus dem Iran / Persien au der Scha-Ära von Bruno Kreisky]
 der jetzt Manager sei. 
 10 Prozent der Mitarbeiter seien entlassen worden bei Corona, 
 der Patient war der erste auf der Liste [des Abteilungsleiter Mohammed "Mammad" Kabiri], er sei 3x vorher entlassen worden, aber habe 
-das über den Betriebsrat [beim 3x mal dank Hilfe von Franz Reinhardt] 
-verhindern können. 
+das über den Betriebsrat 
+[beim zweiten und dritten mal dank Hilfe von Uniqa Betriebsrat Franz Reinhardt 
+und beim ersten mal dank Hilfe von Geschäftsführer Erich Hackhofer] 
+verhindern können. Schließlich sei er aber fristlos entlassen worden,
+da er angeblich im Homeoffice nicht gearbeitet habe.
+
+Im Gespräch ist der Patient kaum zu strukturieren, ein zielführendes
+Gespräch nicht möglich, Patient perseveriert über sein Leben
+und das AMS mit paranoiden Inhalten 
+[da die Sperrung der Notfallshilfe die Ursache ist!],
+antworted nicht auf Fragen nach Suizidalität 
+[alles palleti / leiwand WENN die Notfallshilfe ausbezahlt wird - siehe Ursache].
+Auch auf mehrmaliges Nachfragen keine Erhebung möglich,
+Patient perseveriert weiter vor sich hin 
+[die Ursache d.h. die Auszahlung der Notfallshilfe einzuleiten 
+bzw. helfen die Sperre aufzuheben],
+sprunghaft weitschweifig, erzählt über den
+Bürgermeister 
+[der Gemeinde Grafenwörth Alfred Riedl, den er um Nothilfe d.h. 
+einen Überbrückungskredit Euro 500 bitten will und die Ursache
+der Geldnot an der Wurzel zu packen] und
+seine Kreditkarte [Fehler im Protokoll - richtig] -
+der Bankkarte [da die Bankkarte von der Hausbank Raifeisen Grafenwörth
+die durch Überziehung von Euro 10 
+eingezogen wurde beim Automat in Krems und auf Nachfrage 
+vor Ort in Grafenwörth in der Filiale bei Hr. Ploiner klargestellt 
+wurde  - ich bin nicht mehr erwünscht und es gibt keinen Kredit -
+keine Euro egal welche Sicherheiten ich vorlege 
+und das nach mehr als 20 Jahre treuer Kunde]
+und das Cafe Wachau 
+[das als Rückzugsort dient um der Gewaltspirale 
+im Haus zu entkommen] und das Klimaticket [als Lebensretter - das die "Mobilität" 
+sicherstellt und Zugfahrten erlaubt nach Tulln, Krems, Wien 
+zu Amtswegen, Bewerbungen, etc. für einen Autolosen Fußgänger],
+schließlich sagt er, er sei kein Außerirdischer
+[da bei der Blutabnahme das Blut sehr dick und sehr langsam fließt
+und die Situation der bemühten Pflegekraft mit einen Scherz aufzuheitern].
+
+Auf eine stationäre Aufnahme angesprochen, sagt er,
+er verstehe, das ich Arbeit suche,
+eine Aufnahme habe aber keinen Sinn 
+[da die Kosten bei weiten den Betrag der Notstandshilfesperre übersteigen],
+die "Katastrophe passiere erst in 10 Tagen!" [d.h. 
+wenn die letzen Euro 300 Reserven weg sind 
+und noch immer nichts ausbezahlt ist].
+Hierbleiben woll er nicht, er wolle nicht eingesperrt sein,
+er sei nicht krank [jawohl, alles paletti! wenn die Grundursache 
+die Auszahlung des Notstandsgeld erfolgt],
+dies sei alles ein Missverständnis [da zum 10x mal es
+um die Auszhalung des Notstandgeld geht und nicht darum
+ob ich ein Spinner bin oder nicht 
+oder ob ich aktut selbstmord gefährdet bin - siehe oben, nein wenn das Notstandsgeld ausbezahlt wird 
+(oder etwa ein Privatkredit Euro 500 
+beim Bürgermeister etc in den nächsten möglich wird)].
+
+Patient psychotisch, wahnhaft, keine Krankheitseinsicht,
+inhaltliche und formale Denkstörung, kein zielführendes Gespräch
+möglich, möchte keine stationäre Aufnahme,
+Suizidankündigung, keine Distanzierung ho. im Gespräch.
+
+
+Befund: wach, allseits orientiert, Aufmerksamkeit und Konz[entration]
+red[uziert], Stimmung dysphor, Affekt labil,
+Affizierbarkeit in beiden SB eingeschränkt, Ductus logorrhoisch,
+weitschweifig, Denkziel wird nur teilweise erreicht,
+Gedankenabreissen, inhaltliche und formale Denkstörung,
+Antrieb oB, Zwänge keine, Appetit oB, 
+Suizidgedanken laut Email, auf Nachfrage hierorts immer ausweichend,
+antwortet nicht auf Frage, 
+perserviert weiter über AMS [da die Geldsperre beim AMS 
+der Kern der Krise ist], keine Fremdgefährdung,
+gelockerte Impulskontrolle.
+
+Die Unterbringung in der psychiatrischen Anstalt gem.§ 3 UbG ist notwending wegen:
+
+1) Suizidandrohung
+2) Selbstgefährdung
+3) keine Alternative   [wie wär's mit einer Aufhebung der Notstandshilfesperrung!]
+
+
+Der Patient wurd gemäß §10 Abs. 2 UbG über die Gründe der Unterbringung
+unterrichtet. Er verlang nicht die Verständigung seines Rechtsbeistandes.
+Er widerspricht nicht der Verständigung eines Angehörigen.
+Der Patient wurde gemäß §10 Abs. 3 UbG auf sein Recht hingewiesen,
+ein zweites ärztliches Zeugnis über das Vorliegen der Unterbringusvoraussetzungen
+zu verlangen.
+
+
+
 
 
 
