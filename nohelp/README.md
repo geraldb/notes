@@ -543,11 +543,35 @@ Dokument-ID: 7039341
 
 Aufenthalt:  von 11.10.2023 bis __________
 
-[ ] Patient kommt nach §8 UbG über Amtsart mit Polizei
-[x] Patient kommt mit Polizei nach §9 UbG
-[ ] Patient kommt freiwillig
+- [ ] Patient kommt nach §8 UbG über Amtsart mit Polizei
+- [x] Patient kommt mit Polizei nach §9 UbG
+- [ ] Patient kommt freiwillig
  
 Anamnese:  Der Patient kommt in Polizeibegleitung auf die Station,
 nachdem er per Mail an die Ombudsstelle AMS mit Suizid gedroht hat.
+
+Hierorts erzählt der Patient über Konflikte mit seiner AMS Betreuerin, 
+welche ein "Nazi" sei, diese habe ihn gezwungen sich bei einer Putzfirma
+zu bewerben, er sei aber Informatiker. Er habe außerdem seine Notstandshilfe
+verlorgen und stehe vor dem Ruin. Patient erzählt weitschweifig und
+logorrhoisch über Probleme mit AMS, die Gedanken hierbei enthalten viele paranoide Inhalte.
+
+Weiters besteht ein fam. Konflikt mit dem Bruder hinsichtlich des Erbes,
+der Bruder wolle, dass er eine Verzichtserklärung beim Notar unterschreibe
+und der Bruder wolle ihn aus dem Elternhaus vertreiben, in welchem der
+Patient wohnhaft sei, er wolle ihn rausekeln. Er müsse dem Bruder
+200 Euro im Monat "Blutgeld" bezahlen. Im Haus leben auch die Eltern,
+es sei eine "Ödipusgeschichte", das Haus sei dem Bruder überschrieben worden,
+der Vater sei ein Patriarch und der "Franzi" (= der Bruder) 
+sei dafür da, die Mutter im 24h Dauereinsatz zu beglücken und mache alles für sie.
+
+Im Rahmen von Corona habe er seine Arbeit verlorgen, er habe für die Uniqa
+als Informatiker gearbeitet, die Uniqa gehöre einer Stiftung zum Steuerbetrug,
+nämlich der Uniqastiftung da sei kein Geheimnis, 
+der Abteilungsleiter habe ihn gehasst, er habe dort 10 Jahre lang 
+gearbeitet, der Abteilungsleiter names "Mohammed" [Mammad Kabiri]
+sein ein Flüchtling [aus dem Iran / Persien au der Scha-Ära von Bruno Kreisky],
+der jetzt Manager sei.
+
 
 
