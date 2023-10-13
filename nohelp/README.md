@@ -535,4 +535,19 @@ Mit freundlichen Gruss
 
 Gerald Bauer
 
+----
+
+(Zwangs-) Unterbringungszeugnis  - Anlagedatum 11. Oktober, 2024
+
+Dokument-ID: 7039341
+
+Aufenthalt:  von 11.10.2023 bis __________
+
+[ ] Patient kommt nach §8 UbG über Amtsart mit Polizei
+[x] Patient kommt mit Polizei nach §9 UbG
+[ ] Patient kommt freiwillig
+ 
+Anamnese:  Der Patient kommt in Polizeibegleitung auf die Station,
+nachdem er per Mail an die Ombudsstelle AMS mit Suizid gedroht hat.
+
 
