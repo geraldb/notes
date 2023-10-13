@@ -571,7 +571,13 @@ nämlich der Uniqastiftung da sei kein Geheimnis,
 der Abteilungsleiter habe ihn gehasst, er habe dort 10 Jahre lang 
 gearbeitet, der Abteilungsleiter names "Mohammed" [Mammad Kabiri]
 sein ein Flüchtling [aus dem Iran / Persien au der Scha-Ära von Bruno Kreisky],
-der jetzt Manager sei.
+der jetzt Manager sei. 
+10 Prozent der Mitarbeiter seien entlassen worden bei Corona, 
+der Patient war der erste auf der Liste [des Abteilungsleiter Mohammed "Mammad" Kabiri], er sei 3x vorher entlassen worden, aber habe 
+das über den Betriebsrat [beim 3x mal dank Hilfe von Franz Reinhardt] 
+verhindern können. 
+
+
 
 
 
