@@ -718,8 +718,8 @@ zielführend, keine Halluzination,
 Verfolgungswahn, Größenwahn, Stimmung euthym bis dysphor,
 impulskontrollierter nach [Zwangs]einnahme der Medikation,
 ohne Realitätsbezug, vergleicht sich mit Voltaire [Fehler im Protokol - rühmt Voltaire als den größten Polemiker aller Zeiten 
-und der Stil Voltaires ist ein sicher unereichbares Vorbild meiner bescheidenen Polemikversuche], bezeichnet sich als Humanist [im Sinne der Europäischen Denktradition von Sokrates, Dante, Erasmus, Voltaire, Popper, und vielen anderen
-- das Mass aller Dinge ist der Mensch usw.],
+und der Stil Voltaires ist ein sicher unereichbares Vorbild meiner bescheidenen Polemikversuche], bezeichnet sich als Humanist [im Sinne der Europäischen Denktradition von Sokrates, Dante, Erasmus, Voltaire, Popper, und vielen anderen - 
+das Mass aller Dinge ist der Mensch usw.],
 bewertet seine restliche Familie [Bruder/Vater/Mutter]
 durchwegs negativ [da keine Hilfe in der Not],
 als Narzisten [Fehler im Protokol - nur der Vater wird als Narzist und Choleriker bewertet da bewunderte Vorbilder Putin, Trump, Orban, Kurz, Haider, usw.], Versager [Fehler im Protokol - die Familie bewertet mich als Versager daher meine Ausage - wer andere aburteilt als Versager 
