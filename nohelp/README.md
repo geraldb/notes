@@ -658,12 +658,62 @@ Die Unterbringung in der psychiatrischen Anstalt gem.§ 3 UbG ist notwending weg
 3) keine Alternative   [wie wär's mit einer Aufhebung der Notstandshilfesperrung!]
 
 
-Der Patient wurd gemäß §10 Abs. 2 UbG über die Gründe der Unterbringung
-unterrichtet. Er verlang nicht die Verständigung seines Rechtsbeistandes.
+Der Patient wurde gemäß §10 Abs. 2 UbG über die Gründe der Unterbringung
+unterrichtet. Er verlangt nicht die Verständigung seines Rechtsbeistandes.
 Er widerspricht nicht der Verständigung eines Angehörigen.
 Der Patient wurde gemäß §10 Abs. 3 UbG auf sein Recht hingewiesen,
 ein zweites ärztliches Zeugnis über das Vorliegen der Unterbringusvoraussetzungen
 zu verlangen.
+
+
+
+Informiert über das Recht ein zweites ärztliches Zeugnis
+zu verlangen, verlange ich ein zweites ärztliches Zeugnis, da
+ich das Gefühl habe das die (direkte) Überstellung per Polizei
+(ohne Amtsarzt Zeugnis) jedigliche Argumente zur Ursache der Krise 
+aprallen läßt 
+und wie oben nachzulesen als Weitschweifigkeit, Realitätsverlust usw.
+interpretiert wird.
+
+
+
+(Zwangs-) Unterbringungszeugnis II, Dokument-ID: 7039409
+
+Tulln am 11. Oktbober, 2023 - Uhrzeit: 19:03
+
+von OA Dr. Andrea Summesberger (Landeskrankenhaus Tulln)
+
+
+Aufenthalt:  von 11.10.2023 bis __________
+
+- [ ] Patient kommt nach §8 UbG über Amtsart mit Polizei
+- [x] Patient kommt mit Polizei nach §9 UbG
+- [ ] Patient kommt freiwillig
+
+
+Anamnese:   2. Begutachtung nach Zyprexa VT 10mg und Temesta expedit 2,5mg
+
+Patient beschreibt neuerlich weitschweifig seine gegenwärtige Notlage, 
+es geht um Verweigerung einer Arbeit [Fehler im Protokol - einer Bewerbung]
+für die er als Informatiker überqualifiziert ist seiner Meinung nach 
+(Putzjob). [Fehler im Protokol - ich bin nicht überqualifiziert 
+sondern unterqualifiziert für den Putzjob da zwei Linke 
+und keine Berufserfahrung in der Branche]. 
+Er wäre in der Hebebühne [Sozialhilfebeartung in Tulln]
+zur Beratung gewesen. Hätte daraufhin per email
+eine Selbstmorddrohung an den Ombudsmann [AMS Hilfe NÖ]
+abgesetzt. [Fehler im Protokol - 
+per email eine Anfrage im absurden kafkaeseken Prozess mit Bitte um Klärung ob eine Krankschreibung beim Hausarzt wegen Selbstmord  die Notfallsgeldsperre aufhebt, da arbeitswillig aber nicht arbeitsfähig.]   
+Er beschreibt neuerlich die gesamte innerfamiliäre Situation 
+wortreich (siehe 1. UBG Zeugnis).
+
+[Anmerkung - Mein naives Verständnis
+über ein zweites ärztliches Zeugnis war die Unabhängikeit der zweiten Meinung,
+das die Ärztin voll informiert
+inkl. Zwangsmedikatation ist, ist daher nachträglich offensichtlich.
+das dies nur ein pro-forma zweites ärztliches Zeugnis ist.]
+
+Befund: wach, allseits orientiert, 
 
 
 
