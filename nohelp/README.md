@@ -501,9 +501,7 @@ Jetzt wird gespritzt, mein Freund? Noch eine letzte Chance
 Ich schlucke zwei Pulvers und weis nicht den Namen, den Wirkstoff und sonstiges.
 
 
-Fortsetzung folgt...
-
-----
+  o o o
 
 SgH Stefan Pfefferkorn,
 Liebe Ombudsstelle des AMS NÖ,
@@ -536,14 +534,14 @@ Mit freundlichen Gruss
 Gerald Bauer
 
 
-----
 
-(Zwangs-) Unterbringungszeugnis, Dokument-ID: 7039341
 
-Tulln am 11. Oktbober, 2023 - Uhrzeit: 17:55
+
+### (Zwangs-) Unterbringungszeugnis
 
 von OA Dr. Ramona Feichtinger (Landeskrankenhaus Tulln)
 
+Tulln am 11. Oktbober, 2023 - Uhrzeit: 17:55, Dokument-ID: 7039341
 
 Aufenthalt:  von 11.10.2023 bis __________
 
@@ -665,7 +663,7 @@ Der Patient wurde gemäß §10 Abs. 3 UbG auf sein Recht hingewiesen,
 ein zweites ärztliches Zeugnis über das Vorliegen der Unterbringusvoraussetzungen
 zu verlangen.
 
-
+   o o o
 
 Informiert über das Recht ein zweites ärztliches Zeugnis
 zu verlangen, verlange ich ein zweites ärztliches Zeugnis, da
@@ -677,11 +675,12 @@ interpretiert wird.
 
 
 
-(Zwangs-) Unterbringungszeugnis II, Dokument-ID: 7039409
-
-Tulln am 11. Oktbober, 2023 - Uhrzeit: 19:03
+### (Zwangs-) Unterbringungszeugnis II
 
 von OA Dr. Andrea Summesberger (Landeskrankenhaus Tulln)
+
+Tulln am 11. Oktbober, 2023 - Uhrzeit: 19:03, Dokument-ID: 7039409
+
 
 
 Aufenthalt:  von 11.10.2023 bis __________
@@ -699,7 +698,7 @@ für die er als Informatiker überqualifiziert ist seiner Meinung nach
 (Putzjob). [Fehler im Protokol - ich bin nicht überqualifiziert 
 sondern unterqualifiziert für den Putzjob da zwei Linke 
 und keine Berufserfahrung in der Branche]. 
-Er wäre in der Hebebühne [Sozialhilfebeartung in Tulln]
+Er wäre in der Hebebühne [Sozialhilfeberatung in Tulln]
 zur Beratung gewesen. Hätte daraufhin per email
 eine Selbstmorddrohung an den Ombudsmann [AMS Hilfe NÖ]
 abgesetzt. [Fehler im Protokol - 
@@ -713,12 +712,37 @@ das die Ärztin voll informiert
 inkl. Zwangsmedikatation ist, ist daher nachträglich offensichtlich.
 das dies nur ein pro-forma zweites ärztliches Zeugnis ist.]
 
-Befund: wach, allseits orientiert, 
+Befund: wach, allseits orientiert, Aufmerksamkeit wechselnd,
+Mnestik reduziert, Duktus weitschweifig, perseverirend nicht wirklich
+zielführend, keine Halluzination, 
+Verfolgungswahn, Größenwahn, Stimmung euthym bis dysphor,
+impulskontrollierter nach [Zwangs]einnahme der Medikation,
+ohne Realitätsbezug, vergleicht sich mit Voltaire [Fehler im Protokol - rühmt Voltaire als den größten Polemiker aller Zeiten 
+und der Stil Voltaires ist ein sicher unereichbares Vorbild meiner bescheidenen Polemikversuche], bezeichnet sich als Humanist [im Sinne der Europäischen Denktradition von Sokrates, Dante, Erasmus, Voltaire, Popper, und vielen anderen
+- das Mass aller Dinge ist der Mensch usw.],
+bewertet seine restliche Familie [Bruder/Vater/Mutter]
+durchwegs negativ [da keine Hilfe in der Not],
+als Narzisten [Fehler im Protokol - nur der Vater wird als Narzist und Choleriker bewertet da bewunderte Vorbilder Putin, Trump, Orban, Kurz, Haider, usw.], Versager [Fehler im Protokol - die Familie bewertet mich als Versager daher meine Ausage - wer andere aburteilt als Versager 
+sollte zuerst bei sich selbst beginnen],  fehlende Einsichts und Urteilsfähigkeit,
+versucht nunmehr die Suizidandrohung zu bagatellisieren 
+[die Lage ist Toternst aber einfach zu lösen - siehe oben]
+auf Nachfragen betont er seine verzweifelte Situtation wiederholt
+und bilanziert wiederholt.
+
+Die Unterbringung in der psychiatrischen Anstalt gem.§ 3 UbG ist notwending wegen:
+
+1) Suizidandrohung, fehlender Realitätsbezug
+2) Selbstgefährdung
+3) keine Alternative zur stationären Unterbringung [wie wär's mit einer Aufhebung der Notstandshilfesperrung!]
+
+
+Der Patient wurde gemäß §10 Abs. 2 UbG über die Gründe der Unterbringung
+unterrichtet. Er verlangt nicht die Verständigung seines Rechtsbeistandes.
+Er widerspricht nicht der Verständigung eines Angehörigen.
 
 
 
-
-
+Fortsetzung folgt...
 
 
 
