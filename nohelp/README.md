@@ -751,9 +751,9 @@ Fortsetzung folgt...
 Fußnoten
 
 [^1]: Helga Obermaier -  Anonymisierter Kunstname nach
-schriftlicher Aufforderung durch Rechtsanwaltskanzlei im Auftrag von AMS.
+schriftlicher Aufforderung zur Löschung und Unterlassung durch Rechtsanwaltskanzlei im Auftrag von AMS.
 [^2]: Herbert Salzgeber -  Anonymisierter Kunstname nach
-schriftlicher Aufforderung durch Rechtsanwaltskanzlei im Auftrag von AMS.
+schriftlicher Aufforderung zur Löschung und Unterlassung durch Rechtsanwaltskanzlei im Auftrag von AMS.
 
 
 
