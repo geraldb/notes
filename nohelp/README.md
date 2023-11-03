@@ -755,6 +755,10 @@ schriftlicher Aufforderung durch Rechtsanwaltskanzlei im Auftrag von AMS.
 [^2]: Herbert Salzgeber -  Anonymisierter Kunstname nach
 schriftlicher Aufforderung durch Rechtsanwaltskanzlei im Auftrag von AMS.
 
+
+
+<!--
+
 > Unsere Mandantschaft hat uns darüber in Kenntnis gesetzt, dass Sie die Korrespondenz mit
 > mehreren Mitarbeiterinnen und Mitarbeitern unserer Mandantschaft im Internet – und sohin für jedermann abrufbar – veröffentlichen. 
 > Weder unsere Mandantschaft noch die
@@ -765,4 +769,6 @@ Rechtsprechung auch auf die elektronische Kommunikation erstreckt (vgl. OGH 20.1
 6 Ob 131/18k) – dar und ist aus diesem Grund gemäß § 77 Urheberrechtsgesetz
 rechtswidrig.
 
+
+-->
 
