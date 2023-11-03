@@ -25,14 +25,14 @@ Die Begründung von Seiten der AMS im Bescheid
 > bei der Fa. Steinecker Moden GmbH nicht beworben.
 
 Aus dem AMS Archiv - die passiv-aggressive Kommunikation von 
-Ljubica Vasilic (AMS Tulln - die "Betreuerin" von Gerald Bauer)
+Helga Obermaier[^1]: (AMS Tulln - die "Betreuerin" von Gerald Bauer)
 
 > Sehr geehrter Herr Mag. Bauer,
 >
 > bitte bewerben Sie sich andernfalls muss AMS-seitig eine Sanktionsprüfung gem. § 10 AlVG eingeleitet werden.
 >
 > Mit freundlichen Grüßen
-> Ljubica Vasilic
+> Helga Obermaier[^1]
 > Ihr Arbeitsmarktservice
 >
 > ___________________________________________
@@ -49,7 +49,7 @@ Ljubica Vasilic (AMS Tulln - die "Betreuerin" von Gerald Bauer)
 
 **Oktober 9 - Bitte Um AMS Tulln Betreuerin "Beratungstermin"**
 
-Sehr geehrte Frau Ljubica Vasilic,
+Sehr geehrte Frau Helga Obermaier[^1],
 
   Darf ich um einen dringenden Notfalltermin bitten.  Soweit ich das
 laut AMS Nachrichten Box verstehe haben sie eine Eskalierung
@@ -67,7 +67,7 @@ Derzeit keine
 
 ## Version 1
 
-SgH Stefan Pfefferkorn,
+SgH Herbert Salzgeber[^2],
 Liebe Ombudsstelle des AMS NÖ,
 
 Darf ich nochmals einen Hilferuf um mein Leben zu retten
@@ -94,7 +94,7 @@ sein.
 > bitte bewerben Sie sich andernfalls muss AMS-seitig eine Sanktionsprüfung gem. § 10 AlVG eingeleitet werden.
 >
 > Mit freundlichen Grüßen
-> Ljubica Vasilic
+> Helga Obermaier[^1]
 > Ihr Arbeitsmarktservice
 >
 > ___________________________________________
@@ -139,7 +139,7 @@ meinen Absturtz ein Teufelskreis ist.
 
 ## Nachtrag
 
-SgH Stefan Pfefferkorn,
+SgH Herbert Salzgeber[^2],
 Liebe Ombudsstelle des AMS NÖ,
 
 Ich bin in Panik wegen ein paar hundert Euro treibt man mich in den
@@ -207,12 +207,12 @@ Es tut mir leid, dass ich keinen unmittelbaren Lösungsansatz für Ihre Situatio
 
 Freundliche Grüße
 
-Stefan Pfefferkorn // Ombudsstelle des AMS NÖ
+Herbert Salzgeber[^2] // Ombudsstelle des AMS NÖ
 
 
 ## Re: Antwort
 
-SgH Stefan Pfefferkorn,
+SgH Herbert Salzgeber[^2],
 Liebe Ombudsstelle des AMS NÖ,
 
 Da es praktisch um Leben und Tod geht. Ich stehe am Abgrund. Werde
@@ -301,7 +301,7 @@ sein.
 > bitte bewerben Sie sich andernfalls muss AMS-seitig eine Sanktionsprüfung gem. § 10 AlVG eingeleitet werden.
 >
 > Mit freundlichen Grüßen
-> Ljubica Vasilic
+> Helga Obermaier[^1]
 > Ihr Arbeitsmarktservice
 >
 > ___________________________________________
@@ -423,7 +423,7 @@ Bitte um Klärung ob eine Krankschreibung bei der Hausärztin die Sperre aufhebt
 
 
 
-SgH Stefan Pfefferkorn,
+SgH Herbert Salzgeber[^2],
 Liebe Ombudsstelle des AMS NÖ,
 
 Ich sehe jetzt es war ein Fehler nicht die absurde Pro-Forma Bewerbung an
@@ -503,7 +503,7 @@ Ich schlucke zwei Pulvers und weis nicht den Namen, den Wirkstoff und sonstiges.
 
   o o o
 
-SgH Stefan Pfefferkorn,
+SgH Herbert Salzgeber[^2],
 Liebe Ombudsstelle des AMS NÖ,
 
  Absurd. Jetzt holt mich die Polizei aus meinem Asyl (im Cafehaus
@@ -744,5 +744,25 @@ Er widerspricht nicht der Verständigung eines Angehörigen.
 
 Fortsetzung folgt...
 
+
+
+---
+
+Fußnoten
+
+[^1]: Helga Obermaier -  Anonymisierter Kunstname nach
+schriftlicher Aufforderung durch Rechtsanwaltskanzlei im Auftrag von AMS.
+[^2]: Herbert Salzgeber -  Anonymisierter Kunstname nach
+schriftlicher Aufforderung durch Rechtsanwaltskanzlei im Auftrag von AMS.
+
+> Unsere Mandantschaft hat uns darüber in Kenntnis gesetzt, dass Sie die Korrespondenz mit
+> mehreren Mitarbeiterinnen und Mitarbeitern unserer Mandantschaft im Internet – und sohin für jedermann abrufbar – veröffentlichen. 
+> Weder unsere Mandantschaft noch die
+betroffenen Mitarbeiterinnen und Mitarbeiter haben in die Veröffentlichung eingewilligt. 
+> Die
+Veröffentlichung stellt daher eine Verletzung des Briefschutzes – der sich gemäß ständiger
+Rechtsprechung auch auf die elektronische Kommunikation erstreckt (vgl. OGH 20.12.2018,
+6 Ob 131/18k) – dar und ist aus diesem Grund gemäß § 77 Urheberrechtsgesetz
+rechtswidrig.
 
 
