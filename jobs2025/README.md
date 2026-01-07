@@ -1,8 +1,8 @@
 # No Thanks!
 
 
+## Absage 
 From: Career Translogica GmbH 
-Subject: Absage 
 
 Sehr geehrter Herr Bauer,
 
@@ -18,8 +18,8 @@ Career Translogica GmbH	​​​​
  
  ---
 
+## It didn't work out this time - Your application for "AI Solution Developer (m/w/d)" (563465370091979)
 From: Arijana Sibonjic  
-Subject: It didn't work out this time - Your application for "AI Solution Developer (m/w/d)" (563465370091979)
 
 Dear Gerald Bauer,
 
@@ -34,8 +34,8 @@ Deutsche Telekom Careers
 
   ---
 
+## Follow-up zu unserem Call
 From: Carola Bachmaier 
-Subject: Follow-up zu unserem Call
 
 Lieber Gerald,
 
@@ -56,8 +56,8 @@ Carola
 
  ---
 
+## Feedback zu deiner Bewerbung bei PwC
 From: Anna Teuffenbach 
-Subject: Feedback zu deiner Bewerbung bei PwC
 
 Hallo Gerald,
 
@@ -79,7 +79,7 @@ PwC Österreich
 
   ---
 
-Subject: Ihre Bewerbung Prozessspezialist:in Digitalisierung & KI (w/m/d)
+## Ihre Bewerbung Prozessspezialist:in Digitalisierung & KI (w/m/d)
 
 Sehr geehrter Herr Bauer,
 
@@ -98,7 +98,7 @@ Prefa Aluminiumprodukte
 
  ---
 
-Subject: Deine Bewerbung Product Owner (d/m/w) - künstliche Intelligenz
+## Deine Bewerbung Product Owner (d/m/w) - künstliche Intelligenz
 From: Raiffeisen Software
 
 Lieber Gerald!
@@ -117,7 +117,7 @@ Raiffeisen Software GmbH
 
  ---
 
-Subject: Ihre Bewerbung (Junior-) Group Data & AI Platform Engineer (m/w/d)
+## Ihre Bewerbung (Junior-) Group Data & AI Platform Engineer (m/w/d)
 From: Laura Warmuth 
 
 Guten Tag Gerald Bauer,
@@ -139,7 +139,7 @@ Talent Acquisition & Onboarding Expertin bei UNIQA Insurance Group
 
  ---
 
-Subject: IMC Krems / Vielen Dank für Ihr Interesse! [ID:23555]
+## IMC Krems / Vielen Dank für Ihr Interesse! \[ID:23555\]
 
 Sehr geehrter Herr Mag. (WU) BAUER!
 
@@ -160,7 +160,7 @@ IMC University of Applied Sciences Krems
 
   ---
 
-Subject: Ihre Bewerbung auf die Stelle Praktikant KI Kompetenzzentrum (m/w/d) - befristet für 2 Jahre
+## Ihre Bewerbung auf die Stelle Praktikant KI Kompetenzzentrum (m/w/d) - befristet für 2 Jahre
 From: Bellatrix Jansson 
 
 Guten Tag Gerald Bauer,
@@ -183,7 +183,7 @@ Rheinmetall AG
 
  ---
 
-Subject: Ihre Bewerbung als AI & Data Analyst (m/w/d) vom 20.11.2025
+## Ihre Bewerbung als AI & Data Analyst (m/w/d) vom 20.11.2025
 
 Guten Tag Herr Bauer,
 
@@ -199,7 +199,7 @@ Ihr Human Resources Team
 
  ---
 
-Subject: Update zur Ihrer Bewerbung für den Job Full Stack Developer (w/m/x)
+## Update zur Ihrer Bewerbung für den Job Full Stack Developer (w/m/x)
 From: RBI-Recruiting 
 
 Guten Tag Gerald Bauer,
@@ -218,7 +218,7 @@ Talent Acquisition Team @ RBI
 
  ---
 
-Subject: Ihre Bewerbung "Teamleiter:in (w/m/d) Software Development"
+## Ihre Bewerbung "Teamleiter:in (w/m/d) Software Development"
 From: Simeona Milachkova-Dimitrova 
 
 Schönen guten Tag Gerald Bauer,
@@ -242,7 +242,7 @@ Bundesrechenzentrum GmbH
 
  ---
 
-Subject: Fullstack Softwareentwickler:in (m/w/d) | Referenznummer: 10/25 | Gerald 
+## Fullstack Softwareentwickler:in (m/w/d), Referenznummer: 10/25
 
 Hallo Herr Bauer,
 
@@ -255,7 +255,7 @@ silverbytes Custom Software Solutions
 
  ---
 
-Subject: Deine Bewerbung auf die Position Daten & KI Governance Manager*in
+## Deine Bewerbung auf die Position Daten & KI Governance Manager*in
 From: Recruiting Wiener Stadtwerke
 
 Lieber Gerald,
@@ -271,7 +271,7 @@ WIENER STADTWERKE GmbH
 
  ---
 
-Subject: Update zur Ihrer Bewerbung für den Job Data Platform Engineer (f/m/x)
+## Update zur Ihrer Bewerbung für den Job Data Platform Engineer (f/m/x)
 From: RBI-Recruiting 
 
 Guten Tag Gerald Bauer,
@@ -290,7 +290,7 @@ Talent Acquisition Team @ RBI
 
   ---
 
-Subject: Ketryx - Application 
+## Ketryx - Application 
 
 Dear Gerald,
 
@@ -303,7 +303,7 @@ Ketryx
 
   ---
 
-Subject: Deine Bewerbung für die Position AI Engineer (w/m/d)
+## Deine Bewerbung für die Position AI Engineer (w/m/d)
 From: Hanna Schwamberger
 
 Hallo Gerald,
