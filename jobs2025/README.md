@@ -239,9 +239,6 @@ wir danken Ihnen für Ihr Interesse an unserem Unternehmen und die Zeit, die Sie
 
 Aufgrund der hohen Anzahl an qualifizierten Bewerberinnen und Bewerbern ist es uns leider nicht möglich, mit allen Kandidatinnen und Kandidaten persönlich in Kontakt zu treten. Wir haben Ihre Unterlagen mit den Anforderungen der Position abgeglichen und müssen Ihnen leider mitteilen, dass wir Sie im weiteren Bewerbungsprozess nicht mehr berücksichtigen können, da andere Bewerbungen unserem gesuchten Profil noch etwas näher kamen.
 
-Hoffentlich behalten Sie das BRZ trotz dieser Absage in positiver Erinnerung und verfolgen unsere offenen Stellen auch weiterhin unter www.brz-jobs.at.
-Darüber hinaus laden wir Sie herzlich ein, unseren YouTube Kanal zu besuchen, uns über Social Media (Facebook, Instagram, LinkedIn oder Bluesky) zu folgen und sich über unsere umfassenden Initiativen im Bereich CSR & Nachhaltigkeit zu informieren.
-
 Für ein Feedback stehen wir Ihnen gerne zur Verfügung.
  
 Viel Erfolg für Ihre kommenden beruflichen Schritte!
