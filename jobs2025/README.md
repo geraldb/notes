@@ -6,6 +6,18 @@ From: Career Translogica GmbH
 
 Sehr geehrter Herr Bauer,
 
+wir bedanken uns nochmals herzlich für die Zusendung Ihrer Bewerbungsunterlagen und würden Sie gerne persönlich – im Rahmen eines Gespräches in unserem Büro im Millennium Tower, 21. Stock – kennen lernen.
+
+Das Gespräch besteht aus zwei Teilen:
+
+Zuerst haben Sie ein Gespräch mit Herrn Bodner, in dem er ein paar Details über die Firma/Team/Rolle erzählt und Sie mehr über sich erzählen können.
+
+Danach machen wir einen technischen Test, welcher C# Fragen, SQL Server Fragen und Web Fragen beinhaltet (theoretisch als auch kleine praktische Aufgaben auf Papier).
+
+  o o o
+ 
+Sehr geehrter Herr Bauer,
+
 herzlichen Dank für Ihre Teilnahme am Vorstellungsgespräch.
 
 Aufgrund der großen Anzahl und des hohen Standards der eingelangten Bewerbungen war es für uns nicht einfach, eine Entscheidung zu treffen.
@@ -324,6 +336,498 @@ People & Culture Manager
 Premedia GmbH
 
  ---
+
+## Ihre Bewerbung als Junior Software Entwickler:in
+From: Siemens Personaldienstleistungen 
+
+Guten Tag Gerald Bauer,
+
+vielen Dank für Ihre Bewerbung und das damit verbundene Interesse an unserem Unternehmen. Wir schätzen die Mühe, die Sie sich mit der Erstellung Ihrer Unterlagen gemacht haben.
+
+Die Vielzahl der eingegangenen guten Bewerbungen hat uns die Entscheidung nicht leicht gemacht, denn oft sind es nur Details, die den Ausschlag geben. Die sorgfältige Prüfung Ihrer Bewerbung hat leider ergeben, dass wir Sie nicht weiter im Bewerbungsprozess berücksichtigen können.
+
+Wir bedauern, Ihnen keine positive Rückmeldung geben zu können und bedanken uns herzlich für Ihr Interesse an einer Position in unserem Unternehmen. Gleichzeitig wünschen wir Ihnen viel Glück bei der Suche nach einer neuen beruflichen Herausforderung und alles Gute für die Zukunft.
+
+Wir leben eine offene Feedback-Kultur. Gerne können Sie uns daher auf spdl1@siemens.com eine E-Mail senden. 
+
+Mit freundlichen Grüßen
+
+Ebru Gönlüsen 
+Siemens Personaldienstleistungen GmbH
+
+ ---
+
+## Deine Bewerbung bei Magenta
+
+Lieber Gerald,
+
+nochmals vielen Dank für dein Interesse an der Mitarbeit bei Magenta.
+
+Wir haben deine Bewerbung für die Position Solution Architect (f/m/d) - B2C Digital Solutions aufmerksam angesehen und deine Kenntnisse und Erfahrungen mit den Anforderungen aus dem Fachbereich umfangreich abgeglichen. Auch wenn uns die Entscheidung nicht leichtfällt, müssen wir dir diesmal leider absagen.
+
+Für dein Vertrauen sowie die Zeit und den Aufwand, den du in deine Bewerbung investiert hast, möchten wir uns herzlich bei dir bedanken. 
+
+Da wir immer auf der Suche nach ambitionierten Talenten sind, freuen wir uns, wenn du weiterhin unter www.magenta.at/karriere mit uns verbunden bleibst.
+
+Herzliche Grüße
+
+Selina Sulzer
+Talent Acquisition
+Magenta Telekom
+
+ ---
+
+## Your application for Senior AI Advisor for Erste Group AI Office (all genders)
+From: Erste Digital HR 
+
+Hello Gerald,
+
+We appreciate your interest in Erste Digital GmbH and the time you’ve invested in applying for the Senior AI Advisor for Erste Group AI Office (all genders) position. We know that many companies are hiring and thank you for taking the time to consider us.
+
+Although you have great skills and experience, we regret to inform you that your application has not been shortlisted.
+
+We will be advertising more similar positions in the coming weeks. We hope you’ll keep us in mind and we encourage you to apply again on our career page.
+
+We wish you all the best in your job search and future professional endeavors.
+
+Best regards,
+
+Erste Digital Recruiting
+
+ ---
+
+## Your application as Senior Ruby Developer (f/m/d)
+From: Platogo Interactive Entertainment 
+
+Dear Gerald Bauer,
+
+Thank you very much for applying, we appreciate your interest in working with us.
+
+We have reviewed your documents carefully, so it is with regret that we must inform you that we are not able to consider you for the position at this moment in time. From the huge amount of very good applications, we had to narrow down the candidates which fit in all areas to the profile of the job. Often it comes down to very small details.
+
+If you have any questions or need further information, please do not hesitate to contact us.
+
+We wish you all the best for your future endeavours.
+ 
+Kind regards,
+
+Vanja Pasic
+Senior People & Culture Manager
+Platogo Interactive Entertainment GmbH
+
+  ---
+
+## Ihre Bewerbung bei VERBUND
+
+Guten Tag Gerald Bauer,
+
+vielen Dank noch einmal für Ihre Bewerbung als Solution Architect (w/m/d) Schwerpunkt KI bei VERBUND, Österreichs führendem Energieunternehmen.
+
+Wir konnten uns einen guten Eindruck von Ihren Qualifikationen und Erfahrungen machen, müssen Ihnen aber leider dieses Mal absagen, da andere Personen unsere Anforderungen noch treffender erfüllen.
+
+Natürlich können Sie auch selbst weiterhin in unserem Jobportal aktiv nach offenen Positionen suchen.
+
+Wir wünschen Ihnen viel Energie und Erfolg bei Ihren weiteren Bewerbungen.
+
+Herzliche Grüße
+
+Markus Gross
+Recruiting, VERBUND AG
+
+ ---
+
+## Ihre Bewerbung Full-stack JAVA Entwickler/in mit Erfahrung (m/w/d)
+
+Sehr geehrter Herr Bauer,
+
+herzlichen Dank für Ihre Bewerbung für die Position Full-stack JAVA Entwickler/in mit Erfahrung (m/w/d) und das Vertrauen, das Sie uns mit der Zusendung Ihrer Unterlagen entgegengebracht haben.
+
+Wir haben Ihre Unterlagen mit großem Interesse geprüft, können Sie aber leider im weiteren Bewerbungsprozess nicht mehr berücksichtigen. Wir haben uns in der Vorauswahl für Profile entschieden, die in einzelnen Punkten noch passender auf die Anforderungen der Position zugeschnitten sind.
+
+Wir wünschen Ihnen alles Gute auf Ihrem weiteren Karriereweg!
+
+
+Mit freundlichen Grüßen
+
+Human Resources & Recruiting
+Schrack Technik GmbH
+
+ ---
+
+## Deine Bewerbung als KI Developer (m/w/d)
+From: Recruiting Team 
+
+Lieber Gerald,
+
+vielen Dank für deine Bewerbung und dein Interesse, Teil der spusu Familie zu werden.
+
+Gerne hätten wir mit allen Bewerberinnen und Bewerbern ein persönliches Gespräch geführt, jedoch ist uns das aus zeitlichen Gründen nicht möglich.
+
+Da einige Kandidaten den Anforderungen dieser Position in noch stärkerem Maße entsprechen, können wir dich nicht in die engere Auswahl nehmen.
+
+Wir wissen, dass mit jeder Bewerbung viel Hoffnung und Mühe verbunden ist und bedauern daher sehr, dir keine positive Nachricht geben zu können.
+
+Für deine berufliche Zukunft wünschen wir dir alles Gute und viel Erfolg.
+
+Recruiting-Team
+spusu.at
+
+  ---
+
+## Your application @ AIT
+
+Dear Gerald Bauer,
+
+Thank you very much for your application for the position „Software Engineer (f/m/d) – GIS & Data Spaces for a Sustainable and Resilient Society “. We are pleased you consider AIT as an attractive employer.
+ 
+That is why we regret not being able to further process your application. The decision was not easy for us – there were many very good candidates whose profiles were even more closely aligned with our specific requirements.
+
+As you know, AIT stands for TOMORROW TODAY. Even if we are not able to offer you a job today, we might be able to do so at some other point in the future!
+
+Until then, we wish you a lot of success for your future career steps!
+
+Kind regards
+
+Ihr AIT Recruiting Team
+AIT Austrian Institute of Technology GmbH
+
+  ---
+
+## Vielen Dank für dein Interesse - 1620398 (Senior) Consultant ML und LLM Engineering (w/m/d)
+From: EY Talent Acquisition
+ 
+Hallo Gerald,
+
+vielen Dank für deine kürzliche Bewerbung für die Position (Senior) Consultant ML und LLM Engineering (w/m/d). Wir haben deine Unterlagen sorgfältig geprüft und müssen dir leider mitteilen, dass wir uns dazu entschieden haben, derzeit andere Bewerber:innen zu berücksichtigen.
+
+Wir möchten dich gerne dazu einladen, dich auf unserer Karriereseite über weitere Stellenangebote zu informieren, die dich interessieren könnten.
+
+Wir wünschen dir viel Erfolg bei deiner Suche.
+Freundliche Grüße
+
+EY Talent Attraction and Acquisition Team
+
+ ---
+
+## Update on Your Application for Python Backend Developer (f/m/x)
+From: RBI-Recruiting 
+
+Dear Gerald Bauer,
+
+We want to express our appreciation for your recent application for the position Python Backend Developer (f/m/x) and recognize the effort and time you have dedicated.
+
+After reviewing your qualifications and experience, along with those of other candidates, we have made the difficult decision to proceed with individuals whose skills and background more closely align with the specific requirements of the role. We want to emphasize that this decision was not a reflection of your capabilities or potential.
+
+We encourage you to keep an eye on our Career portal and follow us on LinkedIn for future opportunities.
+
+We wish you the best in your pursuit of new career opportunities and we hope to have the chance to consider you for a role that aligns with your skills and aspirations in the future.
+
+Best Regards,
+
+Talent Acquisition Team @ RBI 
+
+  ---
+
+## Update zu deiner Bewerbung bei Siemens
+From: Siemens Talent Acquisition 
+
+Hallo Gerald,
+
+vielen Dank für deine Bewerbung auf die Position als AI & Data Lead (m/w/d) (476814) bei Siemens. In diesem Fall haben wir uns entschieden, den Auswahlprozess mit anderen Bewerbungen fortzusetzen.
+Dieses Ergebnis hat keinen Einfluss auf deine anderen laufenden Bewerbungsverfahren. In Übereinstimmung mit den Datenschutzeinstellungen in deinem Account werden wir uns bei dir melden, wenn sich andere Möglichkeiten ergeben, die zu dir passen. 
+
+Aufgrund des hohen Bewerbungsvolumens können wir dir leider kein individuelles Feedback geben. Wir freuen uns dennoch über dein Interesse an Siemens und hoffen, dass du unsere Karrieremöglichkeiten auch in Zukunft im Blick behältst.
+
+Tag für Tag ergeben sich neue Möglichkeiten, gemeinsam mit uns das tägliche Leben für alle zu verbessern. Lass dich also nicht davon abhalten, dich auf andere Stellen zu bewerben!
+
+Wir wünschen dir viel Erfolg auf deinem weiteren Berufsweg und freuen uns, erneut von dir zu hören!
+
+Viel Erfolg und bis bald!
+Dein Siemens Talent Team
+
+  ---
+
+## Update zur Ihrer Bewerbung für den Job Solution Architect (f/m/x)
+From: RBI-Recruiting
+
+Guten Tag Gerald Bauer,
+
+vielen Dank für Ihre Bewerbung und das Interesse an der Position Solution Architect (f/m/x).
+
+Nach einer sorgfältigen Prüfung Ihrer Unterlagen haben wir uns entschieden, mit anderen Bewerber:innen fortzufahren, deren Qualifikationen näher an die Anforderungen für die Position herankommen. Wir möchten betonen, dass diese Entscheidung keinesfalls eine Bewertung Ihrer Fähigkeiten oder Potenziale darstellt.
+
+Wir schätzen Ihr Interesse an unserem Unternehmen und ermutigen Sie, sich auch zukünftig auf unsere Stellen zu bewerben. Behalten Sie unser Karriereportal im Auge und folgen Sie uns auf LinkedIn, um über zukünftige Möglichkeiten informiert zu bleiben.
+
+Wir wünschen Ihnen viel Erfolg bei Ihrer weiteren Jobsuche und hoffen, dass sich in Zukunft eine passende Gelegenheit bei uns ergibt.
+
+Beste Grüße,
+
+Talent Acquisition Team @ RBI
+
+--
+
+## Follow-Up on Your Interview: Software Architect (f/m/x)
+From: RBI-Recruiting 
+
+Großartige Neuigkeiten - Ihr Interview für den Job Software Architect (f/m/x) wurde bestätigt. Untenstehend finden Sie zusammengefasst die Details.
+
+Wir freuen uns darauf, mit Ihnen zu sprechen und mehr über Sie und Ihre Fähigkeiten zu erfahren, sowie Ihre Fragen zu beantworten. ​​​​​​​​​​​​​​
+Interview-Details: 
+
+Gespräch (vor Ort) - Software Architect (f/m/x) ( 60 minutes )
+  
+- When: September 09, 2025 04:00 PM - 05:00 PM Europe/Vienna
+- Where: Mooslackengasse 12, Austria
+- Interviewer(s): Nina Kokorovic (Prof Talent Acquisition Partner), Philipp Kaltenecker (Head of AD Building Society Sales), Din Ezzeddine (Agile Coach)
+
+Note: Bei deiner Ankunft gehe bitte zum Empfang und frage nach Nina Kokorovic. Ich werde dich dann abholen. Vielen Dank und alles Gute für das Gespräch!
+
+Liebe Grüße
+Nina Kokorovic
+
+
+Dear Gerald Bauer,
+
+we appreciate the opportunity to discuss your application for the position Software Architect (f/m/x) with our team. Thank you for the time you dedicated to our interview process.
+
+After a thorough review of your qualifications and experience, as well as those of other candidates, we have decided to proceed with individuals whose skills and background more closely align with the specific requirements of the role. This decision was not a reflection of your capabilities or potential.
+
+We encourage you to keep an eye on our Career portal and follow us on LinkedIn for future opportunities.
+
+We wish you the best in your pursuit of new career opportunities and hope to have the chance to consider you for a role that aligns with your skills and aspirations in the future.
+
+Best Regards,
+
+Talent Acquisition Team @ RBI
+
+  ---
+
+## Ihre Bewerbung
+From: Fonds Soziales Wien
+ 
+Guten Tag Gerald Bauer,
+ 
+vielen Dank, dass auch Sie dazu beitragen möchten, Menschen in Wien die Unterstützung zu geben, die sie benötigen.
+ 
+Es war uns eine Freude, mehr über Sie zu erfahren und Ihre Bewerbung zu lesen. Für die Position IT Application Engineer (25/07/FSW/KA) hat es diesmal leider nicht gepasst, aber vielleicht führt Sie in Zukunft ein anderer Weg zu uns.
+ 
+Vielfalt macht uns stark und wir sind überzeugt, dass jede:r einen Platz finden kann, an dem die eigenen Stärken wirken und Sinn stiften.
+ 
+Schauen Sie deshalb gerne auf unserer Karriereseite vorbei, möglicherweise ist dort bald genau die richtige Tätigkeit für Sie dabei.
+ 
+Wir freuen uns, wenn wir uns wieder begegnen!
+
+Freundliche Grüße
+
+Thomas Langer
+HR Business Partner:in
+FONDS SOZIALES WIEN
+Stabsstelle Personal
+
+  ---
+
+## Ihre Bewerbung
+From: Back Office Recruiting 
+
+Sehr geehrter Herr Mag. Bauer,
+
+noch einmal vielen Dank für Ihre Bewerbung und das uns entgegengebrachte Vertrauen.
+
+Wir haben zahlreiche qualifizierte Bewerbungen für die Stelle "Software-Entwickler:in für den digitalen Euro" erhalten, können bedauerlicherweise jedoch nicht alle Bewerber:innen in die nächste Runde mitnehmen. Wir müssen Ihnen daher leider mitteilen, dass Sie für diese Stelle nicht in die engere Wahl gezogen wurden.
+
+Ihre Bewerbungsunterlagen haben uns dankenswerterweise einen sympathischen und aussagekräftigen Einblick in Ihren Werdegang gewährt. Wir würden uns freuen, wenn Sie weiterhin mit uns in Kontakt bleiben wollen - gerne können Sie sich mit unserem Karriere-Team über LinkedIn vernetzen!
+ 
+Wir ersuchen Sie um Verständnis für unsere Entscheidung und wünschen Ihnen für Ihre Zukunft alles Gute!
+
+Mit freundlichen Grüßen,
+Valentina Wallner vom OeNB-Recruiting-Team
+Oesterreichische Nationalbank
+People and Culture
+
+  ---
+
+## AI:AT - AI Factory Austria
+
+Dear Gerald Bauer,
+
+Thank you very much for your application for the position "AI Software Expert (f/m/d)" at the AI:AT - AI Factory Austria. We appreciate that you would like to be part of this national initiative of the Austrian AI "ecosystem".
+ 
+That is why we regret not being able to further process your application. The decision was not easy for us, but we received and are receiving a particular large number of applications - This allows us to proceed with those candidates that were even more closely aligned with our specific requirements.
+
+Again, thank you for your interest. We do wish you a lot of success for your future career steps!
+
+Kind regards
+
+Ivana Bachrata, MSc.
+Recruiting AI:AT - AI Factory Austria
+
+  ---
+
+## AI:AT - AI Factory Austria 
+
+Dear Gerald Bauer,
+
+Thank you very much for your application for the position "AI Expert (f/m/d)" at the AI:AT - AI Factory Austria. We appreciate that you would like to be part of this national initiative of the Austrian AI "ecosystem".
+ 
+That is why we regret not being able to further process your application. The decision was not easy for us, but we received and are receiving a particular large number of applications - This allows us to proceed with those candidates that were even more closely aligned with our specific requirements.
+
+Again, thank you for your interest. We do wish you a lot of success for your future career steps!
+
+Kind regards
+
+
+Ivana Bachrata, MSc.
+Recruiting AI:AT - AI Factory Austria
+
+  ---
+
+## Ihre Bewerbung "Lead Fullstack Developer (w/m/d)"
+From: Alexander Charlos 
+
+Schönen guten Tag Gerald Bauer,
+
+wie telefonisch besprochen, lade ich Sie herzlich zu unserem ersten gemeinsamen Kennenlernen ein.
+
+- Wann? Mi, 20.08.2025 um 15 Uhr (ca. 1 Stunde)
+- Wo? Online via MS Teams
+- Wer?
+  - Hans Berger – Abteilungsleiter
+  - Werner Bucek – Teamleiter
+  - Daniela Waller – Teamleiterin
+  - Alexander Charlos – Talent Acquisition Specialist
+
+
+Schönen guten Tag Gerald Bauer,
+
+zu allererst nochmals herzlichen Dank, dass Sie sich Zeit für das Kennenlernen und Ihre Bewerbung im BRZ genommen haben und wir so die Gelegenheit zum näheren Austausch hatten.
+
+Leider müssen wir Ihnen mitteilen, dass wir Sie im weiteren Bewerbungsprozess nicht mehr berücksichtigen können, da andere Bewerbungen unserem gesuchten Profil noch etwas näher kommen. 
+Wir bedauern es sehr, Ihnen trotz guter Qualifikation keine positive Nachricht übermitteln zu können.
+ 
+Für ein Feedback stehen wir Ihnen gerne zur Verfügung.
+ 
+Wir wünschen Ihnen viel Erfolg für die kommenden beruflichen Schritte!
+
+Beste Grüße, 
+
+Alexander Charlos
+Talent Acquisition & Development 
+Bundesrechenzentrum GmbH
+
+  ---
+
+## Absage deiner Bewerbung
+From: Fabasoft Job
+
+Hallo Gerald!
+
+Danke für dein Interesse an einer Mitarbeit bei Fabasoft als Senior AI Engineer. 
+
+Deine Unterlagen haben wir geprüft, doch leider müssen wir dir mitteilen, dass wir dich – trotz deiner interessanten Qualifikationen – nicht in die engere Wahl genommen haben.
+
+Es ist uns nicht leicht gefallen eine Entscheidung zu treffen. Letztendlich kommt es bei der Auswahl des passenden Bewerbers auf eine Vielzahl von Faktoren an.
+
+Informationen zum Datenschutz und der geltenden Speicherdauer findest du in unserer Datenschutzerklärung für Bewerberinnen und Bewerber.
+
+Auf deinem weiteren Berufs- und Lebensweg wünschen wir dir alles Gute, insbesondere, dass du bald eine Anstellung findest, die dir entspricht.
+
+Liebe Grüße
+Amelie Mizelli
+People & Development
+Fabasoft
+
+  ---
+
+## Deine Bewerbung bei Magenta
+From: Magenta Telekom 
+
+Lieber Gerald,
+
+nochmals vielen Dank für dein Interesse an der Mitarbeit bei Magenta.
+
+Wir haben deine Bewerbung für die Position Machine Learning Engineer (f/m/d) aufmerksam angesehen und deine Kenntnisse und Erfahrungen mit den Anforderungen aus dem Fachbereich umfangreich abgeglichen. Auch wenn uns die Entscheidung nicht leichtfällt, müssen wir dir diesmal leider absagen.
+ 
+Für dein Vertrauen sowie die Zeit und den Aufwand, den du in deine Bewerbung investiert hast, möchten wir uns herzlich bei dir bedanken. 
+
+Da wir immer auf der Suche nach ambitionierten Talenten sind, freuen wir uns, wenn du weiterhin unter www.magenta.at/karriere mit uns verbunden bleibst.
+
+Herzliche Grüße
+
+Selina Sulzer
+Talent Acquisition
+Magenta Telekom
+
+  ---
+
+## Update on Your Application at Greentube GmbH
+From: Greentube GmbH
+
+Dear Gerald,
+
+Thank you for your interest in the AI Adoption Specialist (f/m/d) at Greentube GmbH. Your decision to participate in this quest and join our company has not gone unnoticed.
+
+Today, we regret to inform you that the position of AI Adoption Specialist (f/m/d) which you have applied for has been filled and we cannot proceed further with your application.
+
+While we are impressed by your skills and experiences, another candidate's qualifications more closely aligned with the specific needs of the role and the requirements of our team. We understand that this news may be disappointing, but please know that our decision was based solely on the current needs of the team and organization.
+
+Thank you once again for considering a career with us and we hope our paths will cross again in the future.
+
+Best regards,
+Elena Fleischmann
+Junior Talent Acquisition & Sourcing Specialist
+Greentube GmbH
+
+ ---
+
+## Fachhochschule Technikum Wien 
+
+Sehr geehrter Herr Bauer, 
+
+vielen herzlichen Dank für das angenehme und aufschlussreiche erste Gespräch sowie für das Vertrauen, das Sie in die FH Technikum Wien gesetzt haben! 
+
+Sehr gerne möchten wir Sie zu einem weiteren Gespräch für die Stelle als (Junior) Lecturer/Researcher für Software Engineering (m/w/d; Vollzeit 38,5h) einladen: 
+
+- Datum: Donnerstag, 24.07.2025, Uhrzeit: 12:30 Uhr 
+- Interviewpartner*innen: Nora Stöger-Haselböck, Philipp Urbauer & Sylvia Geyer 
+- Ort: FH Technikum Wien, Höchstädtplatz 6, 1200 Wien  
+
+Bitte kommen Sie zum Empfang, Sie werden persönlich abgeholt.  
+
+Das zweite Gespräch wird ca. 1 Stunde dauern und bietet Ihnen die Gelegenheit, den Arbeitsplatz und das Team kennenzulernen sowie einen ersten Einblick in die konkreten Aufgaben zu erhalten. 
+
+Wir freuen uns auf ein weiteres Gespräch mit Ihnen! 
+
+Mit freundlichen Grüßen
+Emma Iwancsich, BA
+
+ o o o
+
+Sehr geehrter Herr Bauer,
+
+Wie bereits mitgeteilt, wurde der Auswahlprozess für alle Bewerber*innen einheitlich durchgeführt.
+Letztlich war entscheidend, in welchem Maße das jeweilige Profil mit den spezifischen Anforderungen, welche die Hochschullehre und Mitarbeit in Forschungsprojekten mit sich bringen, übereinstimmt.
+
+Wir danken Ihnen nochmals für Ihre Bewerbung und Ihr Vertrauen in unsere Institution.
+
+Ich wünsche Ihnen für Ihre berufliche und persönliche Zukunft alles Gute und weiterhin viel Erfolg.
+
+Mit freundlichen Grüßen,
+Nora Stöger-Haselböck
+FH Technikum Wien
+
+
+##  IVM x Gerald Bauer – Absage/Rejection DevOps Engineer (m/w/d)
+
+Guten Tag Gerald Bauer!
+ 
+Wir danken Ihnen für Ihre Bewerbung und das damit zum Ausdruck gebrachte Interesse an einer Mitarbeit in unserem Unternehmen. 
+ 
+Trotz des guten Eindrucks, den Sie aufgrund Ihres interessanten Profils auf uns gemacht haben, können wir Ihnen leider keine Ihren Vorstellungen und Kenntnissen entsprechende Position in unserem Unternehmen anbieten. Wir bedauern, Ihnen keine positive Rückmeldung geben zu können. 
+ 
+Wir wünschen Ihnen für Ihre berufliche und persönliche Zukunft alles Gute und viel Erfolg.
+
+IVM TECHNICAL CONSULTANTS WIEN
+
 
 
 
