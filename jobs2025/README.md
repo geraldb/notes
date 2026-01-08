@@ -75,13 +75,9 @@ Hallo Gerald,
 
 vielen Dank für das angenehme und interessante Gespräch. Es war wirklich schön, dich kennenzulernen und mehr über deine Qualifikationen und Erfahrungen zu erfahren.
 
-Bitte entschuldige die späte Antwort. Aufgrund der Vielzahl an Bewerber*innen hat sich unser Auswahlprozess leider verzögert.
+Bitte entschuldige die späte Antwort. Aufgrund der Vielzahl an Bewerber\*innen hat sich unser Auswahlprozess leider verzögert.
 
-Nach gründlicher Überlegung und in Anbetracht der vielen qualifizierten Bewerber*innen haben wir uns entschieden, den Prozess mit anderen Kandidat*innen fortzusetzen. Bitte verstehe dies nicht als eine Abwertung deiner Fähigkeiten oder deines Potenzials. Die Entscheidung ist uns wirklich nicht leicht gefallen, da wir von deinem Fachwissen und deiner Persönlichkeit sehr beeindruckt waren.
-
-Wir würden uns freuen, in Zukunft wieder von dir zu hören und vielleicht zu einem späteren Zeitpunkt eine andere Gelegenheit zur Zusammenarbeit zu finden. Deine berufliche Entwicklung bleibt für uns von Interesse.
-
-Nochmals vielen Dank für dein Interesse an der Position und dein Verständnis. Für deinen beruflichen Werdegang wünschen wir dir weiterhin viel Erfolg.
+Nach gründlicher Überlegung und in Anbetracht der vielen qualifizierten Bewerber\*innen haben wir uns entschieden, den Prozess mit anderen Kandidat\*innen fortzusetzen. Bitte verstehe dies nicht als eine Abwertung deiner Fähigkeiten oder deines Potenzials. Die Entscheidung ist uns wirklich nicht leicht gefallen, da wir von deinem Fachwissen und deiner Persönlichkeit sehr beeindruckt waren.
 
 Herzliche Grüße,
 
