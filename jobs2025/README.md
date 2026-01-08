@@ -1112,8 +1112,329 @@ APA-IT Informations Technologie GmbH
 
  ---
 
+## Ihre Bewerbung als "Entwickler:in im Bereich AI"
+Guten Tag Gerald Bauer,
+
+  wie soeben telefonisch besprochen, freuen wir uns, Sie am 5. Mai 2025 um 10:00 Uhr zu einem virtuellen Vorstellungsgespräch begrüßen zu dürfen.
+Das Gespräch werden unsere Kolleg:innen Martina Leopold und Andreas Schwarz mit Ihnen führen. 
+Für unsere Online-Meetings nutzen wir Zoom.
+Mit freundlichen Grüßen,
+
+Sedanur Sen
+Lehrling HR Core
+Österreichische Forschungsförderungsgesellschaft mbH (FFG)
+
+
+From: Adelina Zizak 
+
+Guten Tag Gerald Bauer,
+
+nochmals herzlichen Dank für Ihr Interesse an der ausgeschriebenen Position als "Entwickler:in im Bereich AI" sowie das Gespräch, welches Sie mit meiner Kollegin und meinem Kollegen geführt haben. Leider muss ich Ihnen jedoch mitteilen, dass sich die Abteilung für die Zweitrundengespräche für andere Bewerber:innen entschieden haben, die unsere Anforderungen für diese Stelle noch besser erfüllen. 
+
+Ich wünsche Ihnen bis auf weiteres alles Gute und viel Erfolg!
+
+Mit freundlichen Grüßen,
+
+Adelina Zizak, BA
+Teamleitung HR Core
+​Recruiting & Lehrlingsausbildung
+Österreichische Forschungsförderungsgesellschaft mbH
+
+ ---
+
+## Ihre Bewerbung: Professur Applied Machine Learning
+
+Guten Tag vom FH-Campus St. Pölten,
+
+vielen Dank für Ihre Bewerbung und Ihr Interesse an einer Position an der FH St. Pölten. Wir haben zahlreiche qualifizierte Bewerbungen erhalten und die Entscheidung fiel uns nicht leicht.
+
+Nach sorgfältiger Prüfung Ihrer Unterlagen müssen wir Ihnen leider mitteilen, dass wir Ihnen diesmal keine positive Rückmeldung geben können. 
+
+Wir danken Ihnen herzlich für Ihr Interesse und die Zeit, die Sie in Ihre Bewerbung investiert haben, und wünschen Ihnen für Ihre berufliche Laufbahn alles Gute und viel Erfolg!
+
+Beste Grüße
+
+Elisabeth Oppenauer-Unfried, MA
+HR Business Partnerin
+Recruiting, Pe rsonal- und Organisationsentwicklung
+Service- und Kompetenzzentrum Personal & Finanzwesen
+Fachhochschule St. Pölten GmbH
+
+  ---
+
+## Ihre Bewerbung als Senior Python Developer für GenAI (w/m/d)
+From: HR Recruiting 
+
+Sehr geehrte/r Gerald Bauer,
+
+herzlichen Dank für Ihre Bewerbung auf die Position "Senior Python Developer für GenAI (w/m/d)." und Ihr Interesse an einer Tätigkeit in unserem Unternehmen!
+
+Wir haben Ihre Unterlagen sorgfältig gelesen. Sie bringen fundierte Qualifikationen und wertvolle Berufserfahrung mit. Aufgrund der Vielzahl von Bewerbungen, ist es uns jedoch nur möglich die Bewerber in die engere Wahl zu berücksichtigen, die unserem Anforderungsprofil möglichst genau entsprechen. Aus diesem Grund können wir Ihnen für diese Position keine positive Rückmeldung geben.
+
+Wir wünschen Ihnen viel Erfolg, Dynamik und Begeisterung für Ihre beruflichen sowie auch privaten Ambitionen!
+
+Ihr Helvetia Recruiting Team
+
+Patrik Klein
+
+ ---
+
+## Rejection - AI Software Developer (all humans) @ Erste Operations GmbH
+From: Erste Digital HR 
+
+Dear Gerald,
+
+We appreciate your interest in Erste Operations GmbH and the time you’ve invested in applying for the AI Software Developer (all humans) position. We know that many companies are hiring and thank you for taking the time to consider us.
+
+Although you have great skills and experience, we regret to inform you that your application has not been shortlisted.
+
+We wish you all the best in your job search and future professional endeavors.
+
+Best regards,
+
+Erste Operations Recruiting
+
+ ---
+
+## Vielen Dank für dein Interesse an Accenture
+From: Accenture Careers
+
+Hallo Gerald,
+
+vielen Dank für dein Vertrauen in Accenture – wir freuen uns immer über leidenschaftliche neue Talente!
+
+Nach intensiver Prüfung deiner Bewerbung, können wir dich für die Position Senior Data & Machine Learning Engineer (all genders) leider nicht weiter berücksichtigen. Gerne kannst du dich aber zu einem späteren Zeitpunkt erneut bei uns bewerben.
+
+Accenture Recruitment Team
+
+ ---
+
+## Your IBM Application Status
+From: IBM Talent Acquisition 
+
+Dear Gerald Bauer,
+ 
+We regret to inform you that after careful consideration, we have decided to pursue other candidates whose application more closely aligns with the specific requirements of the position. We appreciate the time and effort you invested in the application process.
+ 
+Your interest in IBM is appreciated and we wish you the best in your future endeavors.
+
+Sincerely,
+IBM Talent Acquisition Team
+
+ ---
+
+## PMC International - Rückmeldung zu Ihrer Bewerbung
+From: Tamara Oberländer
+
+Sehr geehrter Herr Bauer,
+
+vielen Dank für Ihre Bewerbung und das Interesse an der Position Software Developer (all genders) mit der Referenznummer  202501096 unseres Kunden. Das Unternehmen hat sich in diesem Fall für einen anderen Kandidaten (m/w/d) mit noch treffenderem Qualifikationsprofil entschieden. Somit muss ich Ihnen hiermit für diese Position leider absagen.
+
+
+Mit freundlichen Grüßen
+
+Tamara Oberländer, MSc
+
+Senior Consultant
+PMC International GmbH
+
+ ---
+
+## Your Application as Software Developer at EGSTON Power Electronics
+From: Career EGSTON Power Electronics
+
+Dear Mr. Bauer,
+
+thank you very much for your interest in the Software Engineer position at EGSTON Power Electronics and for the time and effort you invested in your application.
+
+After thorough review and careful consideration, we have decided to move forward with other candidates whose qualifications and experience more closely align with our current requirements.
+
+We truly appreciate your interest in our company and the opportunity to get to know your profile. We wish you continued success and all the best in your future professional endeavors!
+
+Best regards,
+The EGSTON Power Electronics Team
+
+ --- 
+
+## Bewerbung Tractive 
+From: Christina Miesbauer 
+
+Hallo Gerald,
+
+vielen Dank für deine erneute Anfrage und dein Interesse an der "Senior Software Engineer Ruby on Rails" Stelle bei Tractive.
+
+Wir haben deine Anfrage sorgfältig geprüft und wissen deine langjährige Erfahrung sehr zu schätzen. Nach eingehender Überlegung haben wir uns jedoch entschieden, den Auswahlprozess mit anderen Kandidaten fortzusetzen, deren Profil und Arbeitsweise noch besser mit den aktuellen Anforderungen und der Teamstruktur bei uns übereinstimmen.
+
+Wir danken dir herzlich für dein Verständnis und wünschen dir für deine berufliche Zukunft weiterhin viel Erfolg und alles Gute.
+
+Mit besten Grüßen,
+Christina
+
+Tractive
+Christina Miesbauer (she/her) | Talent Acquisition Lead
+Tractive GmbH | Pasching | Austria
+
+ ---
+
+## Ihre Bewerbung zu Kennzahl 2271 - 
+From: Wirtschaftsuniversität Wien 
+
+Sehr geehrter Herr Bauer,
+ 
+vielen Dank für Ihre Bewerbung. Es freut uns sehr, dass Sie bei uns mitarbeiten möchten. 
+Wir haben Ihre Unterlagen genau geprüft. Trotz Ihrer Qualifikation gab es eine Person, die auf das gesuchte Anforderungsprofil noch ein Stück besser passte. Leider müssen wir daher heute eine Absage schicken.
+
+Für die weitere Jobsuche drücken wir Ihnen die Daumen. 
+
+Freundliche Grüße
+ 
+Ihr Team der Personalabteilung der WU
+
+WU
+Wirtschaftsuniversität Wien
+Vienna University of Economics and Business
+
+ ---
+
+## Ihre Bewerbung als "Entwickler:in im Bereich AI"
+From: Adelina Zizak 
+
+Guten Tag Gerald Bauer,
+
+herzlichen Dank für Ihr Interesse an der ausgeschriebenen Position als "Entwickler:in im Bereich AI". Leider muss ich Ihnen jedoch mitteilen, dass wir für diese Stelle Bewerbungen bekommen haben, die dem Anforderungsprofil für diese Stelle besser entsprechen. Es tut mir leid, Ihnen keine positive Rückmeldung geben zu können - oftmals sind es nur geringfügige Unterschiede die den Ausschlag geben.
+
+Ich wünsche Ihnen bis auf weiteres alles Gute und viel Erfolg!
+
+Mit freundlichen Grüßen,
+
+Adelina Zizak, BA
+Teamleitung Personalmanagement
+​Recruiting & Lehrlingsausbildung
+Österreichische Forschungsförderungsgesellschaft mbH
+
+  ---
+
+## Ihre Bewerbung als Teamleiter*in Data und Analytics (m/w/d)
+From: Haag, Barbara (P&P)
+
+Sehr geehrter Herr Bauer,
+
+vielen Dank für Ihre Bewerbung bei der EVN. Wir sind das Personalberatungsunternehmen der EVN, deshalb wurden Ihre Unterlagen an uns weitergeleitet.
+
+Wir haben Ihren Werdegang eingehend geprüft und mit dem Stellenprofil abgeglichen. Trotz Ihrer umfassenden Kenntnisse und Fähigkeiten treffen Sie leider nicht exakt die Vorstellungen, die unser Kunde mit dieser Position verbindet, daher müssen wir Ihnen absagen.
+
+Wir danken für Ihr Interesse an unserer Ausschreibung und Ihre für die Bewerbung aufgewendete Zeit und wünschen Ihnen viel Erfolg auf Ihrem beruflichen Weg!
+ 
+Mit freundlichen Grüßen
+ 
+Barbara Haag
+Assistentin
+Dr. Pendl & Dr. Piswanger Gesellschaft m.b.H.
+InterSearch Austria
+
+ ---
+
+## Ihre Bewerbung bei PORR AG
+From: PORR HR Team
+
+Hallo Gerald Bauer, 
+
+vielen Dank für Ihre Bewerbung auf die Stelle BI Softwareentwickler*in (Azure) und das Vertrauen, das Sie uns damit entgegenbringen. 
+
+Nach sorgfältiger Prüfung Ihrer Bewerbung müssen wir Ihnen leider mitteilen, dass wir Sie bei unserem Auswahlverfahren nicht weiter berücksichtigen, und Ihnen keine passende Stelle anbieten können. 
+
+Für Ihre berufliche und private Zukunft wünschen wir Ihnen alles Gute und viel Erfolg. 
+
+Freundliche Grüße 
+Amir Husetic 
+PORR Group Human Resources
+
+  ---
+
+## Ihre Bewerbung als KI-EntwicklerIn für Spracherkennung & -verarbeitung (LLMs) (m/w/d)
+From: Manuela Kubitzki 
+
+Sehr geehrter Herr Bauer,
+
+vielen Dank für Ihre ansprechenden Bewerbungsunterlagen, die wir mit Interesse gelesen haben. Leider müssen wir Ihnen jedoch mitteilen, dass Ihr Profil nicht in vollem Umfang unseren Anforderungen entspricht.
+
+Für Ihren weiteren beruflichen und persönlichen Lebensweg wünschen wir Ihnen alles Gute!
+
+Freundliche Grüße
+Human Resources
+
+WKO Inhouse GmbH der Wirtschaftskammern Österreichs
+
+ ---
+
+## Absage – für dieses Mal | ​Enterprise Architekt*in
+From: Recruiting WienIT 
+
+Lieber Gerald,
+
+danke, dass du dich für die Mitarbeit an der Zukunft Wiens beworben hast.
+
+Wir können dir heute leider keine Zusage senden: Trotz deiner Fähigkeiten und Erfahrungen gab es andere Personen, die unsere Anforderungen an die Stelle noch ein wenig besser erfüllen.
+
+Danke nochmals für deinen Einsatz und bis hoffentlich bald!
+
+Viele Grüße 
+
+Veronika Drs
+WIENER STADTWERKE GmbH
+
+ ---
+
+## Ihre Bewerbung bei der Ratbacher GmbH
+From: Mira Holly 
+
+Guten Tag Herr Bauer,
+
+vielen Dank für die Übermittlung Ihres Kandidatenprofils und für das damit verbundene Interesse an einer Zusammenarbeit mit der Ratbacher GmbH.
+
+Nach sorgfältiger Prüfung Ihres Profils und nach Abgleich der Kundenanforderungen für die durch uns zu besetzenden IT Vakanzen müssen wir Ihnen leider mitteilen, dass wir Sie als Kandidat aktuell nicht in die engere Auswahl nehmen können.
+
+Für Ihre weitere berufliche sowie persönliche Zukunft wünschen wir Ihnen alles Gute.
+
+Mit freundlichen Grüßen
+
+Mira Holly
+Recruiting Specialist IT
+RATBACHER GmbH, Niederlassung Österreich    
+
+ ---
+
+## Your application at PlanRadar
+From: Jana Roth 
+
+Dear Gerald,
+
+Thank you for applying for our open Backend Developer (m/f/d) position and your interest in PlanRadar. We really appreciate the time and effort you took to submit an application in order to become part of our success story.
+
+After careful consideration of all applicants, we regret to inform you that we have decided not to move forward with your application at this time. While your profile is interesting, we have decided to pursue other candidates who better fit the requirements and expectations of this particular position.
  
 
+Kind regards,
 
+Jana Roth
+Recruiter
+PlanRadar GmbH
+
+ ---
+
+## Your application at PlanRadar
+From: Madeline Riedl 
+
+Dear Gerald,
+
+Thank you for applying for our open AI / ML Engineer (m/f/d) position and your interest in PlanRadar. We really appreciate the time and effort you took to submit an application in order to become part of our success story.
+
+After careful consideration of all applicants, we regret to inform you that we have decided not to move forward with your application at this time. While your profile is interesting, we have decided to pursue other candidates who better fit the requirements and expectations of this particular position.
+
+Kind regards,
+
+Madeline Riedl
+Recruiter 
+PlanRadar GmbH
 
 
