@@ -220,8 +220,6 @@ vielen Dank für Ihre Bewerbung und das Interesse an der Position Full Stack Dev
 
 Nach einer sorgfältigen Prüfung Ihrer Unterlagen haben wir uns entschieden, mit anderen Bewerber:innen fortzufahren, deren Qualifikationen näher an die Anforderungen für die Position herankommen. Wir möchten betonen, dass diese Entscheidung keinesfalls eine Bewertung Ihrer Fähigkeiten oder Potenziale darstellt.
 
-Wir schätzen Ihr Interesse an unserem Unternehmen und ermutigen Sie, sich auch zukünftig auf unsere Stellen zu bewerben. Behalten Sie unser Karriereportal im Auge und folgen Sie uns auf LinkedIn, um über zukünftige Möglichkeiten informiert zu bleiben.
-
 Wir wünschen Ihnen viel Erfolg bei Ihrer weiteren Jobsuche und hoffen, dass sich in Zukunft eine passende Gelegenheit bei uns ergibt.
 
 Beste Grüße,
@@ -288,8 +286,6 @@ Guten Tag Gerald Bauer,
 vielen Dank für Ihre Bewerbung und das Interesse an der Position Data Platform Engineer (f/m/x).
 
 Nach einer sorgfältigen Prüfung Ihrer Unterlagen haben wir uns entschieden, mit anderen Bewerber:innen fortzufahren, deren Qualifikationen näher an die Anforderungen für die Position herankommen. Wir möchten betonen, dass diese Entscheidung keinesfalls eine Bewertung Ihrer Fähigkeiten oder Potenziale darstellt.
-
-Wir schätzen Ihr Interesse an unserem Unternehmen und ermutigen Sie, sich auch zukünftig auf unsere Stellen zu bewerben. Behalten Sie unser Karriereportal im Auge und folgen Sie uns auf LinkedIn, um über zukünftige Möglichkeiten informiert zu bleiben.
 
 Wir wünschen Ihnen viel Erfolg bei Ihrer weiteren Jobsuche und hoffen, dass sich in Zukunft eine passende Gelegenheit bei uns ergibt.
 
@@ -363,8 +359,6 @@ nochmals vielen Dank für dein Interesse an der Mitarbeit bei Magenta.
 Wir haben deine Bewerbung für die Position Solution Architect (f/m/d) - B2C Digital Solutions aufmerksam angesehen und deine Kenntnisse und Erfahrungen mit den Anforderungen aus dem Fachbereich umfangreich abgeglichen. Auch wenn uns die Entscheidung nicht leichtfällt, müssen wir dir diesmal leider absagen.
 
 Für dein Vertrauen sowie die Zeit und den Aufwand, den du in deine Bewerbung investiert hast, möchten wir uns herzlich bei dir bedanken. 
-
-Da wir immer auf der Suche nach ambitionierten Talenten sind, freuen wir uns, wenn du weiterhin unter www.magenta.at/karriere mit uns verbunden bleibst.
 
 Herzliche Grüße
 
@@ -515,8 +509,6 @@ We want to express our appreciation for your recent application for the position
 
 After reviewing your qualifications and experience, along with those of other candidates, we have made the difficult decision to proceed with individuals whose skills and background more closely align with the specific requirements of the role. We want to emphasize that this decision was not a reflection of your capabilities or potential.
 
-We encourage you to keep an eye on our Career portal and follow us on LinkedIn for future opportunities.
-
 We wish you the best in your pursuit of new career opportunities and we hope to have the chance to consider you for a role that aligns with your skills and aspirations in the future.
 
 Best Regards,
@@ -552,8 +544,6 @@ Guten Tag Gerald Bauer,
 vielen Dank für Ihre Bewerbung und das Interesse an der Position Solution Architect (f/m/x).
 
 Nach einer sorgfältigen Prüfung Ihrer Unterlagen haben wir uns entschieden, mit anderen Bewerber:innen fortzufahren, deren Qualifikationen näher an die Anforderungen für die Position herankommen. Wir möchten betonen, dass diese Entscheidung keinesfalls eine Bewertung Ihrer Fähigkeiten oder Potenziale darstellt.
-
-Wir schätzen Ihr Interesse an unserem Unternehmen und ermutigen Sie, sich auch zukünftig auf unsere Stellen zu bewerben. Behalten Sie unser Karriereportal im Auge und folgen Sie uns auf LinkedIn, um über zukünftige Möglichkeiten informiert zu bleiben.
 
 Wir wünschen Ihnen viel Erfolg bei Ihrer weiteren Jobsuche und hoffen, dass sich in Zukunft eine passende Gelegenheit bei uns ergibt.
 
@@ -864,7 +854,7 @@ Fachhochschule Technikum Wien
 ## Absage deiner Bewerbung
 
 Einladung zum Interview
-From: Fabasoft Job <job@fabasoft.com>
+From: Fabasoft Job 
 
 Hallo Gerald!
  
@@ -954,7 +944,7 @@ Wir wünschen dir viel Erfolg und alles Gute auf deinem weiteren beruflichen Weg
 
 Liebe Grüße
 Christoph
---
+
 Christoph Hartl-Zulehner, MSc
 Erste Operations GmbH
 Head of AI & Automation
@@ -1058,7 +1048,72 @@ mit freundlichen Grüßen
 
 DEKRA Arbeit Austria GmbH
 
- --
+ ---
+
+## Ihre Bewerbung als DevOps Engineer (w/m/x), Ausschreibungsnummer: req22547
+
+Guten Tag Gerald Bauer,
+
+vielen Dank für Ihr Interesse. Mit Ihrer Bewerbung haben Sie uns gezeigt, dass Sie die Zukunft der Mobilität gemeinsam mit dem ÖBB-Team gestalten möchten.
+
+Leider müssen wir Ihnen mitteilen, dass die ausgeschriebene Position nicht mehr vakant ist. Aus diesem Grund können wir Ihre Bewerbung für diesen Auswahlprozess nicht weiter berücksichtigen.
+
+Entsprechend unseres ÖBB-Slogans "HEUTE. FÜR MORGEN. FÜR UNS." haben wir vielleicht schon morgen eine weitere offene Position, die uns eine Chance auf Zusammenarbeit bietet.
+
+Wir wünschen Ihnen alles Gute für Ihre weitere berufliche Zukunft und verbleiben
+mit freundlichen Grüßen
+Ihr ÖBB Recruiting Team
+
+ ---
+
+## Thank you for your interest in Storyblok!
+
+Dear Gerald,
+
+Thank you so much for taking the time to apply to Storyblok! We truly enjoyed learning about your skills and accomplishments. Unfortunately, we’ve had to make changes to our hiring plans and are no longer moving forward with this position. However, we were really impressed with your qualifications and would love to reconnect if the role opens up again.
+
+Please keep an eye on our career site for future opportunities. Thanks again for your interest!
+
+Best regards,
+Storyblok Recruiting
+
+ ---
+
+## Regarding your application
+
+Dear Gerald,
+
+Thank you for your interest in joining us at Zühlke. We are thrilled you have considered us as an employer.
+
+We have made the difficult decision to decline your application for .NET Fullstack Engineer We have progressed with candidates whose CV displays a closer alignment to the role requirements from a technical aspect.
+
+We truly appreciate your interest in Zühlke and would love to stay connected. Please reach out again, should you find an interesting role on our careers site that matches your profile!
+
+Warm regards,
+Zühlke Talent Acquisition Team
+
+ ---
+
+## Deine Bewerbung Java Fullstack Softwareentwickler:in (w/m/x) mit Schwerpunkt Server
+From: APA – Austria Presse Agentur 
+
+Lieber Gerald,
+
+wir möchten uns nochmals ganz herzlich für deine Bewerbung und dein Interesse an unserem Unternehmen bedanken.
+
+Deine Unterlagen haben wir sorgfältig und intensiv geprüft. Leider bist du dieses Mal, trotz deiner vielseitigen Erfahrungen und Qualifikationen, nicht in die engere Auswahl gekommen. Bei vielen guten Bewerber:innen entscheiden oft nur Details. Unsere Entscheidung stellt deshalb keinerlei Werturteil deiner Qualifikation dar, sondern wurde ausschließlich in Hinblick auf diese Position getroffen.
+
+Wir bedanken uns herzlich für die Zeit, die du in die Bewerbung investiert hast und wünschen dir für deine berufliche und private Zukunft alles Gute!
+
+Freundliche Grüße
+
+Denise Carausu
+APA-IT Informations Technologie GmbH
+
+ ---
+
+ 
+
 
 
 
