@@ -825,7 +825,240 @@ Wir wünschen Ihnen für Ihre berufliche und persönliche Zukunft alles Gute und
 
 IVM TECHNICAL CONSULTANTS WIEN
 
+  ---
 
+## Ihre Bewerbung als Junior Lecturer/Researcher für Artificial Intelligence (m/w/d; Vollzeit)
+From: Fachhochschule Technikum Wien 
+
+Sehr geehrter Herr Bauer, 
+
+herzlichen Dank für Ihre Bewerbung als Junior Lecturer/Researcher für Artificial Intelligence (m/w/d; Vollzeit) und das damit verbundene Interesse an einer Tätigkeit an der FH Technikum Wien!
+
+Wir müssen Ihnen heute leider mitteilen, dass wir Sie nicht in den engeren Kreis der Bewerber*innen aufnehmen können. Bitte verstehen Sie diese Entscheidung nicht als Wertung Ihrer Qualifikationen.  
+
+Für die Zeit, die Sie in die Erstellung Ihrer Bewerbung investiert haben, danken wir Ihnen sehr. Wir wünschen Ihnen für Ihren weiteren Berufsweg alles Gute und viel Erfolg! 
+
+Mit freundlichen Grüßen
+Ihr Recruiting Team
+Fachhochschule Technikum Wien
+
+---
+
+## Ihre Bewerbung als Lecturer/Researcher für Artificial Intelligence im Projekt GAIN (m/w/d, Teil- oder Vollzeit, befristet bis 31.08.2027)
+From: Fachhochschule Technikum Wien
+
+Sehr geehrter Herr Bauer, 
+
+herzlichen Dank für Ihre Bewerbung als Lecturer/Researcher für Artificial Intelligence im Projekt GAIN (m/w/d, Teil- oder Vollzeit, befristet bis 31.08.2027) und das damit verbundene Interesse an einer Tätigkeit an der FH Technikum Wien!
+
+Wir müssen Ihnen heute leider mitteilen, dass wir Sie nicht in den engeren Kreis der Bewerber*innen aufnehmen können. Bitte verstehen Sie diese Entscheidung nicht als Wertung Ihrer Qualifikationen.  
+
+Für die Zeit, die Sie in die Erstellung Ihrer Bewerbung investiert haben, danken wir Ihnen sehr. Wir wünschen Ihnen für Ihren weiteren Berufsweg alles Gute und viel Erfolg! 
+
+Mit freundlichen Grüßen
+Ihr Recruiting Team 
+Fachhochschule Technikum Wien
+
+---
+
+## Absage deiner Bewerbung
+
+Einladung zum Interview
+From: Fabasoft Job <job@fabasoft.com>
+
+Hallo Gerald!
+ 
+Danke für dein Interesse an einer Mitarbeit bei Fabasoft.
+
+Es freut uns, dass wir dich persönlich kennenlernen dürfen und bestätigen gerne den telefonisch vereinbarten Termin.
+
+Gesprächspartner:
+
+- Frau Samina Liegl, Head of Contracts Professional Services
+- Frau Karina Amerstorfer, People & Development Management
+
+Datum: Montag, 7. Juli 2025 um 15:30 Uhr
+
+Ort: Fabasoft Head Office, 4020 Linz, Honauerstraße 4, 6. Stock 
+
+Diese Einladung zum Interview zieht noch keinerlei Rechtsansprüche deinerseits nach sich und wir weisen darauf hin, dass wir keinen Ersatz für allfällige Vorstellungskosten leisten.
+
+Liebe Grüße
+
+Karina Amerstorfer
+People & Development Management
+Fabasoft International Services 
+
+
+From: Fabasoft Job 
+
+Hallo Gerald!
+
+Zunächst möchten wir uns ganz herzlich für deine Geduld bedanken – wir wissen, dass du schon einige Zeit auf unsere Rückmeldung gewartet hast, und möchten uns aufrichtig dafür entschuldigen. Ein transparenter und zeitnaher Bewerbungsprozess ist uns sehr wichtig, und wir bedauern es, diesem Anspruch in deinem Fall nicht gerecht geworden zu sein.
+
+Ganz besonders danken wir dir für deine Geduld, dein Engagement und das Interesse, das du an Fabasoft gezeigt hast. Es war uns eine Freude, mehr über dich und deinen bisherigen Weg zu erfahren.
+
+Nach intensiver Abstimmung und sorgfältiger Überlegung sind wir zu dem Entschluss gekommen, dir aktuell leider kein Angebot machen zu können.
+
+Auf deinem weiteren Berufs- und Lebensweg wünschen wir dir alles Gute, insbesondere, dass du bald eine Anstellung findest, die dir entspricht.
+
+Liebe Grüße
+
+Karina Amerstorfer
+HR-Management
+Fabasoft International Services 
+
+---
+
+## Vielen Dank für Ihr Interesse an T-Systems
+
+Guten Tag Gerald Bauer,
+
+Hiermit sende ich Dir den Termin für ein erstes MS-Teams Gespräch mit: 
+
+- Thomas Lechinger
+- Michael Schmollngruber
+- M. Berger
+
+Viele Grüße,
+Theresa
+ --
+T-SYSTEMS AUSTRIA GESMBH
+Theresa Neuwirth BSc (WU)
+Young Professional / Human Resources
+
+
+Guten Tag Gerald,
+
+vielen Dank für das Interesse an unserem Unternehmen und Deine Bewerbung für die Position AI Solution Developer (m/w/d).
+
+Wir haben die Position mittlerweile erfolgreich besetzt, daher können wir Deine Bewerbung auf diese Position nicht mehr berücksichtigen.
+
+Für das uns entgegengebrachte Vertrauen bedanken wir uns und wünschen Dir für Deine berufliche Zukunft alles Gute. 
+
+Viele Grüße,
+Dein T-Systems Recruiting Team
+
+---
+
+## Unser Gespräch
+From: Christoph Hartl-Zulehner 
+
+Hallo Gerald,
+
+zunächst möchten wir uns sehr herzlich bei dir für den MS Teams Call bedanken.
+
+Nach sorgfältiger Überlegung haben wir uns entschieden, den Auswahlprozess mit anderen Kandidat:innen fortzusetzen, deren Profile besser zu unseren aktuellen Anforderungen passen. Diese Entscheidung ist uns nicht leichtgefallen, und wir möchten dir versichern, dass sie keine Abwertung deiner Bemühungen und Qualifikationen darstellt.
+
+Wir wünschen dir viel Erfolg und alles Gute auf deinem weiteren beruflichen Weg.
+
+Liebe Grüße
+Christoph
+--
+Christoph Hartl-Zulehner, MSc
+Erste Operations GmbH
+Head of AI & Automation
+
+
+---
+
+## Deloitte – eine Absage für dieses Mal und diese Position
+From: Theresa Glinzerer
+​​​​​​​​​​
+Hallo Gerald,
+
+vielen Dank für dein Interesse an einer Karriere mit Deloitte und der ausgeschriebenen Position AI Consultant (all genders).
+
+Du hast mit deiner Bewerbung Aufwand und Erwartungen verbunden – das schätzen wir sehr. Umso schwieriger ist es deshalb für uns, dich heute enttäuschen zu müssen. Wir konnten bereits einige Gespräche für diese Position führen und haben uns dazu entschieden, deine Bewerbung diesmal nicht in die engere Auswahl zu nehmen. Aus diesem Grund muss ich dir heute leider trotz deiner interessanten Qualifikationen absagen. Wenn du dazu noch Fragen hast, wende dich gerne an uns.   
+
+Liebe Grüße, 
+
+Theresa
+--
+Theresa Glinzerer
+Talent Relations & Acquisition | Deloitte Österreich
+
+ ---
+
+## Your application for Senior AI Advisor - Erste AI Office (all genders)
+From: Erste Digital HR 
+
+Hello Gerald,
+
+We appreciate your interest in Erste Digital GmbH and the time you’ve invested in applying for the Senior AI Advisor - Erste AI Office (all genders) position. We know that many companies are hiring and thank you for taking the time to consider us.
+
+Although you have great skills and experience, we regret to inform you that your application has not been shortlisted.
+
+We will be advertising more similar positions in the coming weeks. We hope you’ll keep us in mind and we encourage you to apply again on our career page.
+
+We wish you all the best in your job search and future professional endeavors.
+
+Best regards,
+
+Erste Digital Recruiting
+
+  ---
+
+## Ihre Bewerbung als Senior AI Engineer
+
+From: HR Recruiting
+
+Sehr geehrte/r Gerald Bauer,
+
+herzlichen Dank für Ihre Bewerbung auf die Position "Senior AI Engineer" und Ihr Interesse an einer Tätigkeit in unserem Unternehmen!
+
+Wir haben Ihre Unterlagen sorgfältig gelesen. Sie bringen fundierte Qualifikationen und wertvolle Berufserfahrung mit. Aufgrund der Vielzahl von Bewerbungen, ist es uns jedoch nur möglich die Bewerber in die engere Wahl zu berücksichtigen, die unserem Anforderungsprofil möglichst genau entsprechen. Aus diesem Grund können wir Ihnen für diese Position keine positive Rückmeldung geben.
+
+Wir wünschen Ihnen viel Erfolg, Dynamik und Begeisterung für Ihre beruflichen sowie auch privaten Ambitionen!
+
+Ihr Helvetia Recruiting Team
+
+Patrik Klein
+
+ ---
+
+## Ihre Bewerbung zu Kennzahl 2300 - 3 Python Entwickler
+From: Wirtschaftsuniversität Wien 
+
+Sehr geehrter Herr Bauer,
+ 
+herzlichen Dank, dass Sie sich die Zeit für ein Telefoninterview genommen haben.
+Wir haben Ihre Unterlagen noch einmal genau geprüft. Trotz Ihrer Qualifikation gab es eine Person, die auf das gesuchte Anforderungsprofil noch ein Stück besser passte. Es tut uns leid, dass wir dieses Mal keine bessere Nachricht für Sie haben.
+
+Wir suchen immer wieder Verstärkung und bieten laufend interessante Jobs an. Besuchen Sie uns einfach auf unserem Jobportal. Wir würden uns freuen, wenn Sie vielleicht auf einer anderen Position dabei sein können, wenn Denken zur Zukunft wird. Für die weitere Jobsuche wünschen wir Ihnen viel Erfolg und drücken Ihnen die Daumen. 
+
+Freundliche Grüße
+ 
+Ihr Team der Personalabteilung der WU
+
+WU
+Wirtschaftsuniversität Wien
+Vienna University of Economics and Business
+
+ ---
+
+## Absage
+From: Stefanie Mikulski
+
+Guten Tag Gerald Bauer,
+
+wir sagen "Herzlichen Dank" für Ihre Bewerbung und das Interesse an einer Mitarbeit in unserem Unternehmen.
+
+Sie verbanden mit Ihrer Bewerbung Erwartungen und Hoffnungen. Umso schwieriger ist es deshalb für uns, Ihnen heute mitteilen zu müssen, dass uns Bewerbungen vorliegen, die dem gesuchten Anforderungsprofil noch mehr entsprechen. Aus diesem Grund können wir Sie für die ausgeschriebene Position leider nicht in die engere Auswahl einbeziehen.
+
+Wir bedauern es, Ihnen keinen positiven Bescheid geben zu können.
+
+Die wohl unerfreulichste Aufgabe für uns ist es, wenn wir Bewerbern, die viel Zeit und Mühe in ihre Bewerbung investiert haben, eine Absage zukommen lassen müssen. 
+
+Vielleicht klappt es ja bei unserer nächsten Stellenausschreibung.
+
+Wir hoffen auf Ihr Verständnis und verbleiben
+
+mit freundlichen Grüßen
+
+DEKRA Arbeit Austria GmbH
+
+ --
 
 
 
