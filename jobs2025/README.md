@@ -912,7 +912,7 @@ Hiermit sende ich Dir den Termin für ein erstes MS-Teams Gespräch mit:
 
 Viele Grüße,
 Theresa
- --
+ 
 T-SYSTEMS AUSTRIA GESMBH
 Theresa Neuwirth BSc (WU)
 Young Professional / Human Resources
@@ -964,7 +964,7 @@ Du hast mit deiner Bewerbung Aufwand und Erwartungen verbunden – das schätzen
 Liebe Grüße, 
 
 Theresa
---
+
 Theresa Glinzerer
 Talent Relations & Acquisition | Deloitte Österreich
 
